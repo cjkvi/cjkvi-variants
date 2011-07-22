@@ -2,6 +2,7 @@
 # kdp/simplified[d] ... 第一批異体字整理表
 # kdp/simplified[s] ... 原規格分離規則
 # kdp/simplified[e] ... extra
+kdp/simplified,<rev>,kdp/regular
 㐁,kdp/simplified,㐁
 㐆,kdp/simplified,㐆
 㐌,kdp/simplified,㐌
