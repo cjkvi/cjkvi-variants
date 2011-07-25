@@ -1,9 +1,104 @@
 # 第一批異体字整理表（一異表）
+# 
+# 1955年12月12日版（810組、1055文字）と1989年版（809組、1051文字）の相違点
+#
+# ※ 1988年版では以下の主字が変更
+#    兎〔兔兔〕  → 兔〔兎兔〕
+#    佇〔竚伫〕  → 伫〔竚佇〕
+#    閙〔鬧〕    → 鬧〔閙〕
+#    牆〔墻〕    → 墻〔牆〕
+# ※ 1988年版では以下の異体字が削減（3字削減）
+#    坂〔阪岅〕  → 坂〔岅〕　（1956年3月23日削除）
+#    銼〔剉挫〕  → 銼〔剉〕　（1956年3月23日削除）
+#    粳〔稉粇秔〕→ 粳〔稉秔〕
+#    （元来、粇・妳は1955年版では２重に収録されていた）
+# ※ 1988年版では以下のエントリが未掲載（1組1字削減）
+#    諂 〔謟〕
+# （これらの変更のうち、粇・諂は非公式とすれば、810組1053文字。）
+#
+# ※ 1986年に以下の関連字が《简化字总表》に追加。
+# （䜣、䜩、晔、詟、诃、䲡、䌷、刬、鲙、诓、雠）
+#   その結果、以下の組・字が削除（6組11字）
+#    欣〔訢〕
+#    宴〔讌醼〕  → 宴〔醼〕
+#    燁〔爗曄〕  → 燁〔爗〕
+#    懾〔慴讋〕  → 懾〔慴〕
+#    呵〔訶〕
+#    鰍〔鰌〕
+#    綢〔紬〕
+#    鏟〔剷剗〕  → 鏟〔剷〕
+#    膾〔鱠〕
+#    誑〔誆〕
+#    仇〔讎讐〕  → 仇〔讐〕
+#
+# ※ 1988年に以下の関連字が《现代汉语通用字表》に追加
+# （翦、邱、於、澹、骼、彷、菰、溷、徼、薰、黏、桉、愣、晖、凋）
+#   その結果、以下の組・字が削除（8組15字）
+#    剪〔翦〕
+#    丘〔坵邱〕  → 丘〔坵〕
+#    于〔於〕
+#    淡〔澹〕
+#    胳〔肐骼〕  → 胳〔肐〕
+#    仿〔彷髣倣〕→ 仿〔髣倣〕
+#    菇〔菰〕
+#    混〔溷〕
+#    僥〔徼儌〕  → 僥〔儌〕
+#    熏〔薰燻〕  → 熏〔燻〕
+#    粘〔黏〕
+#    案〔桉〕
+#    楞〔愣〕
+#    輝〔煇暉〕  → 輝〔煇〕
+#    雕〔彫鵰凋琱〕 → 雕〔彫鵰琱〕
+# 
+# これによって、従来の810組,1053文字→795組, 1027文字に削減。
+
+# ※ 1993年、「熔〔鎔〕」が削除された。
+# ※ 1997年に上記の非公式な「粇・諂」の削除が確認された。
+# 
+# 2010年現在は794組・1024文字（うち重複１文字…「妳」）となっている。
+# （http://zh.wikipedia.org/wiki/第一批异体字整理表）
+
+# 針谷版からの修正：
+#       燁 〔爗嘩〕→燁 〔爗曄〕
+#       熏 〔薫燻〕→熏 〔薰燻〕
+#       毙 〔斃〕  →斃 〔獘〕
+#       瘪 〔癟〕  →癟 〔㿜〕
+#       參 〔叅〕  →參 〔㕘〕
+#       鑒 〔鑑鋻〕→鑒 〔鑑鍳〕
+#       缰 〔韁〕  →繮 〔韁〕
+#       奬 〔奨〕  →奬 〔獎〕
+#       厩 〔廐廏〕→厩 〔廐廄〕
+#       暦 〔厤〕  →曆 〔厤〕
+#       畝 〔畆畮畆𤱈畂〕→畝 〔𤰜畮畆𤱈畂〕
+#       閙 〔鬧〕  →鬧 〔閙〕
+#       牆 〔墻〕  →墻 〔牆〕
+#       似 〔侶〕  →似 〔佀〕
+#       煕 〔熈𤋮〕→熙 〔熈𤋮〕
+#       勛 〔勲〕  →勛 〔勳〕
+#       飮 〔㱃〕  →飲 〔㱃〕
+#       （「嫩 〔嫰〕」の位置違い）
+#       （「樽 〔罇〕」の位置・ピンイン違い）
+#   寇の異体字「㓂」は、中が「女」ではなく「攵」か？
+
+# yyb/variant … 1024文字
+# yyb/variant/1956 … 2文字
+# yyb/variant/1986 … 11文字
+# yyb/variant/1988 … 15文字
+# yyb/variant/1993 … 1文字
+# yyb/variant/1997 … 2文字
+# 合計: 1055文字
+
 yyb/variant,<rev>,yyb/regular
+yyb/variant/1956,<rev>,yyb/regular/1956
+yyb/variant/1986,<rev>,yyb/regular/1986
+yyb/variant/1988,<rev>,yyb/regular/1988
+yyb/variant/1993,<rev>,yyb/regular/1993
+yyb/variant/1997,<rev>,yyb/regular/1997
 # 
 庵,yyb/variant,菴
 暗,yyb/variant,闇
 暗,yyb/variant,晻
+案,yyb/variant/1988,桉
 鞍,yyb/variant,鞌
 岸,yyb/variant,㟁
 坳,yyb/variant,㘭
@@ -13,6 +108,7 @@ yyb/variant,<rev>,yyb/regular
 柏,yyb/variant,栢
 稗,yyb/variant,粺
 坂,yyb/variant,岅
+坂,yyb/variant/1956,阪
 幫,yyb/variant,幚
 幫,yyb/variant,幇
 膀,yyb/variant,髈
@@ -71,6 +167,8 @@ yyb/variant,<rev>,yyb/regular
 察,yyb/variant,詧
 插,yyb/variant,揷
 鏟,yyb/variant,剷
+鏟,yyb/variant/1986,剗
+諂,yyb/variant/1997,謟
 嘗,yyb/variant,嚐
 嘗,yyb/variant,甞
 腸,yyb/variant,膓
@@ -89,12 +187,14 @@ yyb/variant,<rev>,yyb/regular
 痴,yyb/variant,癡
 敕,yyb/variant,勅
 敕,yyb/variant,勑
+仇,yyb/variant/1986,讎
 仇,yyb/variant,讐
 瞅,yyb/variant,矁
 瞅,yyb/variant,𥄨
 酬,yyb/variant,酧
 酬,yyb/variant,詶
 酬,yyb/variant,醻
+綢,yyb/variant/1986,紬
 鋤,yyb/variant,鉏
 鋤,yyb/variant,耡
 蹰,yyb/variant,躕
@@ -135,12 +235,14 @@ yyb/variant,<rev>,yyb/regular
 悴,yyb/variant,顇
 村,yyb/variant,邨
 銼,yyb/variant,剉
+銼,yyb/variant/1956,挫
 瘩,yyb/variant,𤺥
 呆,yyb/variant,獃
 呆,yyb/variant,騃
 玳,yyb/variant,瑇
 啖,yyb/variant,啗
 啖,yyb/variant,噉
+淡,yyb/variant/1988,澹
 耽,yyb/variant,躭
 擋,yyb/variant,攩
 蕩,yyb/variant,盪
@@ -155,6 +257,7 @@ yyb/variant,<rev>,yyb/regular
 蒂,yyb/variant,蔕
 雕,yyb/variant,彫
 雕,yyb/variant,鵰
+雕,yyb/variant/1988,凋
 雕,yyb/variant,琱
 吊,yyb/variant,弔
 蝶,yyb/variant,蜨
@@ -207,6 +310,7 @@ yyb/variant,<rev>,yyb/regular
 帆,yyb/variant,颿
 泛,yyb/variant,汎
 泛,yyb/variant,氾
+仿,yyb/variant/1988,彷
 仿,yyb/variant,髣
 仿,yyb/variant,倣
 痱,yyb/variant,疿
@@ -245,11 +349,13 @@ yyb/variant,<rev>,yyb/regular
 稿,yyb/variant,稾
 閣,yyb/variant,閤
 胳,yyb/variant,肐
+胳,yyb/variant/1988,骼
 歌,yyb/variant,謌
 個,yyb/variant,箇
 亘,yyb/variant,亙
 耕,yyb/variant,畊
 粳,yyb/variant,稉
+粳,yyb/variant/1997,粇
 粳,yyb/variant,秔
 鯁,yyb/variant,骾
 躬,yyb/variant,躳
@@ -257,6 +363,7 @@ yyb/variant,<rev>,yyb/regular
 鈎,yyb/variant,鉤
 構,yyb/variant,搆
 雇,yyb/variant,僱
+菇,yyb/variant/1988,菰
 鼓,yyb/variant,皷
 挂,yyb/variant,掛
 挂,yyb/variant,罣
@@ -280,6 +387,7 @@ yyb/variant,<rev>,yyb/regular
 皓,yyb/variant,皜
 皓,yyb/variant,暠
 蚝,yyb/variant,蠔
+呵,yyb/variant/1986,訶
 盍,yyb/variant,盇
 核,yyb/variant,覈
 和,yyb/variant,龢
@@ -291,7 +399,7 @@ yyb/variant,<rev>,yyb/regular
 呼,yyb/variant,虖
 呼,yyb/variant,嘑
 呼,yyb/variant,謼
-糊,yyb/variant,粘
+糊,yyb/variant,䊀
 糊,yyb/variant,餬
 胡,yyb/variant,衚
 話,yyb/variant,䛡
@@ -312,11 +420,13 @@ yyb/variant,<rev>,yyb/regular
 蛔,yyb/variant,痐
 蛔,yyb/variant,蜖
 輝,yyb/variant,煇
+輝,yyb/variant/1988,暉
 匯,yyb/variant,滙
 迴,yyb/variant,廻
 迴,yyb/variant,逥
 徽,yyb/variant,幑
 魂,yyb/variant,䰟
+混,yyb/variant/1988,溷
 昏,yyb/variant,昬
 禍,yyb/variant,旤
 羈,yyb/variant,覊
@@ -340,11 +450,13 @@ yyb/variant,<rev>,yyb/regular
 奸,yyb/variant,姦
 鹼,yyb/variant,鹻
 碱,yyb/variant,堿
+剪,yyb/variant/1988,翦
 减,yyb/variant,減
 繭,yyb/variant,蠒
 繮,yyb/variant,韁
 僵,yyb/variant,殭
 奬,yyb/variant,獎
+僥,yyb/variant/1988,徼
 僥,yyb/variant,儌
 叫,yyb/variant,呌
 剿,yyb/variant,勦
@@ -407,13 +519,15 @@ yyb/variant,<rev>,yyb/regular
 肯,yyb/variant,肎
 坑,yyb/variant,阬
 寇,yyb/variant,宼
-寇,yyb/variant,冦
+寇,yyb/variant,㓂
 叩,yyb/variant,敂
 扣,yyb/variant,釦
 褲,yyb/variant,袴
+膾,yyb/variant/1986,鱠
 款,yyb/variant,欵
 况,yyb/variant,況
 礦,yyb/variant,鑛
+誑,yyb/variant/1986,誆
 饋,yyb/variant,餽
 愧,yyb/variant,媿
 窺,yyb/variant,闚
@@ -431,6 +545,7 @@ yyb/variant,<rev>,yyb/regular
 琅,yyb/variant,瑯
 泪,yyb/variant,淚
 棱,yyb/variant,稜
+楞,yyb/variant/1988,愣
 厘,yyb/variant,釐
 裏,yyb/variant,裡
 歷,yyb/variant,𠪱
@@ -550,6 +665,7 @@ yyb/variant,<rev>,yyb/regular
 擬,yyb/variant,儗
 拈,yyb/variant,撚
 念,yyb/variant,唸
+粘,yyb/variant/1988,黏
 年,yyb/variant,秊
 娘,yyb/variant,孃
 裊,yyb/variant,嫋
@@ -620,7 +736,9 @@ yyb/variant,<rev>,yyb/regular
 琴,yyb/variant,琹
 撳,yyb/variant,搇
 丘,yyb/variant,坵
+丘,yyb/variant/1988,邱
 虬,yyb/variant,虯
+鰍,yyb/variant/1986,鰌
 秋,yyb/variant,秌
 秋,yyb/variant,龝
 球,yyb/variant,毬
@@ -648,7 +766,7 @@ yyb/variant,<rev>,yyb/regular
 冗,yyb/variant,宂
 絨,yyb/variant,羢
 絨,yyb/variant,毧
-熔,yyb/variant,鎔
+熔,yyb/variant/1993,鎔
 融,yyb/variant,螎
 蠕,yyb/variant,蝡
 軟,yyb/variant,輭
@@ -821,6 +939,7 @@ yyb/variant,<rev>,yyb/regular
 携,yyb/variant,㩗
 携,yyb/variant,擕
 携,yyb/variant,㩦
+欣,yyb/variant/1986,訢
 幸,yyb/variant,倖
 汹,yyb/variant,洶
 凶,yyb/variant,兇
@@ -843,6 +962,7 @@ yyb/variant,<rev>,yyb/regular
 萱,yyb/variant,藼
 璇,yyb/variant,璿
 靴,yyb/variant,鞾
+熏,yyb/variant/1988,薰
 熏,yyb/variant,燻
 徇,yyb/variant,狥
 勛,yyb/variant,勳
@@ -869,6 +989,7 @@ yyb/variant,<rev>,yyb/regular
 焰,yyb/variant,燄
 艷,yyb/variant,豓
 艷,yyb/variant,豔
+宴,yyb/variant/1986,讌
 宴,yyb/variant,醼
 揚,yyb/variant,颺
 揚,yyb/variant,敭
@@ -884,6 +1005,7 @@ yyb/variant,<rev>,yyb/regular
 野,yyb/variant,壄
 夜,yyb/variant,亱
 燁,yyb/variant,爗
+燁,yyb/variant/1986,曄
 翳,yyb/variant,瞖
 异,yyb/variant,異
 咿,yyb/variant,吚
@@ -911,6 +1033,7 @@ yyb/variant,<rev>,yyb/regular
 恿,yyb/variant,惥
 雍,yyb/variant,雝
 游,yyb/variant,遊
+于,yyb/variant/1988,於
 寓,yyb/variant,庽
 欲,yyb/variant,慾
 逾,yyb/variant,踰
@@ -968,6 +1091,7 @@ yyb/variant,<rev>,yyb/regular
 謫,yyb/variant,讁
 哲,yyb/variant,喆
 懾,yyb/variant,慴
+懾,yyb/variant/1986,讋
 針,yyb/variant,鍼
 鴆,yyb/variant,酖
 砧,yyb/variant,碪
