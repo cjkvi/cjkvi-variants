@@ -39,7 +39,6 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 㲪,kdp/variants/positional,𣰆
 㲯,kdp/variants/positional,𣰦
 㲱,kdp/variants/positional,𣰫
-㴝,kdp/variants/positional,𪏭
 㶪,kdp/variants/positional,炋
 㷙,kdp/variants/positional,𤋎
 㷬,kdp/variants/positional,𦹪
@@ -99,6 +98,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 䨲,kdp/variants/positional,𩆟
 䩊,kdp/variants/positional,𩈱
 䩜,kdp/variants/positional,𩊄
+䪡,kdp/variants/positional,䪢
 䪢,kdp/variants/positional,䪡
 䪤,kdp/variants/positional,𩐏
 䪾,kdp/variants/positional,𩒉
@@ -153,6 +153,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 䶱,kdp/variants/positional,𪚽
 乸,kdp/variants/positional,毑
 众,kdp/variants/positional,㐺
+劙,kdp/variants/positional,蠫
 劤,kdp/variants/positional,𣂒
 劰,kdp/variants/positional,𠡈
 劼,kdp/variants/positional,㔛
@@ -182,6 +183,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 唇,kdp/variants/positional,㖘
 啉,kdp/variants/positional,𠵂
 啎,kdp/variants/positional,𠵦
+啟,kdp/variants/positional,啓
 喭,kdp/variants/positional,𠷗
 嗎,kdp/variants/positional,𠺎
 嗷,kdp/variants/positional,嗸
@@ -300,6 +302,8 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 崱,kdp/variants/positional,𡺢
 崷,kdp/variants/positional,𡺚
 崿,kdp/variants/positional,㟧
+嵆,kdp/variants/positional,嵇
+嵆,kdp/variants/positional,嵇
 嵇,kdp/variants/positional,嵆
 嵉,kdp/variants/positional,𡺣
 嵒,kdp/variants/positional,嵓
@@ -351,6 +355,8 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 影,kdp/variants/positional,𢒬
 忹,kdp/variants/positional,𢗖
 悳,kdp/variants/positional,惪
+憩,kdp/variants/positional,𢠾
+憩,kdp/variants/positional,𦧰
 懡,kdp/variants/positional,𢣗
 戇,kdp/variants/positional,𢦀
 戒,kdp/variants/positional,𢌵
@@ -408,11 +414,13 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 橛,kdp/variants/positional,橜
 橢,kdp/variants/positional,㯐
 橤,kdp/variants/positional,𣛚
+檃,kdp/variants/positional,𨽌
 檄,kdp/variants/positional,𣜥
 檗,kdp/variants/positional,檘
 檠,kdp/variants/positional,㯳
 檤,kdp/variants/positional,𣜦
 檮,kdp/variants/positional,𣝷
+檼,kdp/variants/positional,櫽
 檿,kdp/variants/positional,𣝓
 櫳,kdp/variants/positional,㰍
 櫾,kdp/variants/positional,𣟾
@@ -455,6 +463,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 熢,kdp/variants/positional,㷭
 熷,kdp/variants/positional,𤎯
 熺,kdp/variants/positional,𤏴
+燞,kdp/variants/positional,𣤚
 燧,kdp/variants/positional,㸂
 爋,kdp/variants/positional,𤑕
 爋,kdp/variants/positional,𤑛
@@ -502,7 +511,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 秋,kdp/variants/positional,秌
 秋,kdp/variants/positional,𤇫
 秌,kdp/variants/positional,𤇫
-稽,kdp/variants/positional,𥡴
+稽,kdp/variants/positional,𥡞
 稿,kdp/variants/positional,稾
 穆,kdp/variants/positional,𥡻
 積,kdp/variants/positional,𥡯
@@ -510,8 +519,6 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 窴,kdp/variants/positional,𥧑
 竧,kdp/variants/positional,䠴
 篹,kdp/variants/positional,𥲻
-簆,kdp/variants/positional,𥲃
-簔,kdp/variants/positional,簑
 紼,kdp/variants/positional,𥿏
 絍,kdp/variants/positional,䋕
 緒,kdp/variants/positional,緖
@@ -541,6 +548,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 耄,kdp/variants/positional,𣭢
 聭,kdp/variants/positional,𩲽
 聾,kdp/variants/positional,䏊
+肇,kdp/variants/positional,𢾹
 胸,kdp/variants/positional,胷
 胸,kdp/variants/positional,胷
 脀,kdp/variants/positional,𦚦
@@ -629,7 +637,6 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 袧,kdp/variants/positional,𧙎
 袲,kdp/variants/positional,袳
 裕,kdp/variants/positional,䘱
-裡,kdp/variants/positional,裏
 裡,kdp/variants/positional,裏
 裰,kdp/variants/positional,𧚰
 裵,kdp/variants/positional,裶
@@ -843,7 +850,9 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 麢,kdp/variants/positional,𪋶
 麣,kdp/variants/positional,𪋹
 黂,kdp/variants/positional,𪎰
+默,kdp/variants/positional,黙
 黜,kdp/variants/positional,𪐽
+點,kdp/variants/positional,㸃
 黦,kdp/variants/positional,䵫
 鼗,kdp/variants/positional,𪔛
 鼘,kdp/variants/positional,𪔥
@@ -861,6 +870,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 齾,kdp/variants/positional,𪚋
 龓,kdp/variants/positional,𪚞
 龢,kdp/variants/positional,𥤉
+﨎,kdp/variants/positional,𪯩
 𠅣,kdp/variants/positional,𡕬
 𠋢,kdp/variants/positional,𠊯
 𠑗,kdp/variants/positional,㒨
@@ -877,6 +887,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 𠮫,kdp/variants/positional,𠮬
 𠮱,kdp/variants/positional,𠮲
 𠲗,kdp/variants/positional,𠱫
+𠶶,kdp/variants/positional,啔
 𠿎,kdp/variants/positional,𡁑
 𡈽,kdp/variants/positional,圡
 𡑠,kdp/variants/positional,𡑌
@@ -930,6 +941,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 𢑈,kdp/variants/positional,𢑉
 𢒁,kdp/variants/positional,𢒀
 𢛧,kdp/variants/positional,𢜐
+𢠾,kdp/variants/positional,𦧰
 𢦧,kdp/variants/positional,𢦵
 𢪨,kdp/variants/positional,𢪚
 𣂀,kdp/variants/positional,𣁿
@@ -964,6 +976,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 𣯾,kdp/variants/positional,𣰅
 𣰄,kdp/variants/positional,𣰃
 𣳫,kdp/variants/positional,𣵭
+𣶠,kdp/variants/positional,𣶾
 𣷉,kdp/variants/positional,𣶬
 𤇯,kdp/variants/positional,𤇷
 𤉺,kdp/variants/positional,𤊮
@@ -1056,6 +1069,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 𧑓,kdp/variants/positional,𧒁
 𧑱,kdp/variants/positional,𧑭
 𧕲,kdp/variants/positional,𧕣
+𧗄,kdp/variants/positional,監
 𧘒,kdp/variants/positional,𧘙
 𧘚,kdp/variants/positional,𧘎
 𧙩,kdp/variants/positional,𧙷
@@ -1091,6 +1105,7 @@ kdp/variants/positional,<rev>,kdp/variants/positional
 𨤇,kdp/variants/positional,𨤈
 𨮔,kdp/variants/positional,𨮖
 𨹌,kdp/variants/positional,𨛇
+𨻐,kdp/variants/positional,𡏇
 𨻐,kdp/variants/positional,𡏇
 𨽃,kdp/variants/positional,𨞧
 𨾋,kdp/variants/positional,𨾈
