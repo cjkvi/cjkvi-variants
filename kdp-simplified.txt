@@ -18,8 +18,8 @@
 # kdp/simplified/G4   … GB7590記載字（整理表と異なる）
 # kdp/simplified/X    … 類推簡化字
 #
-kdp/simplified,<rev>,kdp/regular
-kdp/simplified/X,<rev>,kdp/regular
+kdp/simplified,<rev>,kdp/complex
+kdp/simplified/X,<rev>,kdp/complex
 #
 㐁,kdp/simplified,㐁
 㐆,kdp/simplified,㐆
@@ -3130,7 +3130,7 @@ kdp/simplified/X,<rev>,kdp/regular
 䦪,kdp/simplified,⿵门⿱日匂
 䦬,kdp/simplified,⿵门契
 䦭,kdp/simplified,⿵门香
-䦯,kdp/simplified,𫔸
+䦯,kdp/simplified,𫔵
 䦱,kdp/simplified,⿵门为
 䦲,kdp/simplified,⿵门詹
 䦳,kdp/simplified,𨷿
@@ -5926,6 +5926,7 @@ kdp/simplified/X,<rev>,kdp/regular
 壤,kdp/simplified,壤
 壧,kdp/simplified,⿰土严
 壩,kdp/simplified[1],坝
+垻,kdp/simplified,坝
 壪,kdp/simplified,塆
 士,kdp/simplified,士
 壬,kdp/simplified,壬

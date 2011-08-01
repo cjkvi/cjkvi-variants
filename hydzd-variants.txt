@@ -1,8 +1,8 @@
 # hydzd/variant
 # hydzd/simplified
 #
-hydzd/regular,<rev>,hydzd/variant
-hydzd/regular,<rev>,hydzd/simplified
+hydzd/variant,<rev>,hydzd/regular
+hydzd/simplified,<rev>,hydzd/complex
 #
 一,hydzd/variant,弌
 一,hydzd/variant,壹

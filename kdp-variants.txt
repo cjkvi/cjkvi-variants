@@ -1,9 +1,9 @@
 kdp/variant,<rev>,kdp/variant
 #
 㐬,kdp/variant,𡿮
-㑒,kdp/variant,𫝇,Ext.D 
 㑳,kdp/variant,𠊣,⿱丑丑/芻
 㒪,kdp/variant,𠑳
+㓒,kdp/variant,𣶠
 㔕,kdp/variant,㔕,气/乞
 㔾,kdp/variant,𢎘,【説文】 氾の音の㔾は７部のため、𢎘の変化であり、節の㔾ではない。
 㖴,kdp/variant,𦮶,位置
@@ -22,7 +22,6 @@ kdp/variant,<rev>,kdp/variant
 㥟,kdp/variant,𢞶,戸籍異体
 㩶,kdp/variant,𢺣,篆書、「⿱竹𤕨」は未符号化
 㪿,kdp/variant,𣂚
-折,kdp/variant,㪿
 㪿,kdp/variant,𣂟
 㫣,kdp/variant,𣋔,［疑似簡体字］
 㯞,kdp/variant,𣚓
@@ -35,7 +34,6 @@ kdp/variant,<rev>,kdp/variant
 㼱,kdp/variant,𠭼
 㽿,kdp/variant,𪽫,宋本廣韻の誤字
 㾯,kdp/variant,𡰂,法務省 戸籍統一文字から
-㿫,kdp/variant,𤿎,pos
 䀋,kdp/variant,𪉹,pos
 䀍,kdp/variant,䘓
 䀺,kdp/variant,𠌪,【説文】
@@ -60,9 +58,11 @@ kdp/variant,<rev>,kdp/variant
 䥍,kdp/variant,𨫦
 䨶,kdp/variant,𩆹
 䪶,kdp/variant,𩒢
+䬸,kdp/variant,𩜨
 䮂,kdp/variant,𩢚
 䯧,kdp/variant,𩫌
 䰧,kdp/variant,𩳰,⿸虍人/虎
+䵡,kdp/variant,𪐡
 三,kdp/variant,𠀧
 丣,kdp/variant,𫝁,Ext.D 
 个,kdp/variant,亇,字喃
@@ -93,6 +93,7 @@ kdp/variant,<rev>,kdp/variant
 偠,kdp/variant,𡛙
 催,kdp/variant,𠮋,戸籍異体
 僉,kdp/variant,㑒,戸籍異体
+僉,kdp/variant,𫝇,Ext.D 
 僊,kdp/variant,㒨
 儨,kdp/variant,懫,法務省 戸籍統一文字から
 儻,kdp/variant,淌
@@ -243,6 +244,7 @@ kdp/variant,<rev>,kdp/variant
 抆,kdp/variant,𢪛,学生字典
 抑,kdp/variant,𠨔,𢑏と𠨔
 抗,kdp/variant,杭
+折,kdp/variant,㪿
 拔,kdp/variant,㧞
 括,kdp/variant,筈
 捷,kdp/variant,㨗
@@ -401,6 +403,7 @@ kdp/variant,<rev>,kdp/variant
 秋,kdp/variant,𥤚
 秩,kdp/variant,祑,法務省 戸籍統一文字から
 秭,kdp/variant,𥝱,その他
+穆,kdp/variant,𥟙
 穴,kdp/variant,宂,その他
 穴,kdp/variant,𥤢
 空,kdp/variant,𫞹,Ext.D 
@@ -661,6 +664,7 @@ kdp/variant,<rev>,kdp/variant
 𠚞,kdp/variant,𤔼
 𠚡,kdp/variant,𠚜,【大漢和】
 𠜰,kdp/variant,𠜧
+𠝠,kdp/variant,𠝬
 𠝣,kdp/variant,𣦃
 𠝾,kdp/variant,𠝴
 𠞘,kdp/variant,㓼,㓼:【大漢和】2144/𠞘:【大漢和】㓼譌字(2140)
@@ -718,12 +722,14 @@ kdp/variant,<rev>,kdp/variant
 𡱹,kdp/variant,𡲏
 𡲪,kdp/variant,𡥸
 𡳏,kdp/variant,𣂥,戸籍異体
+𡳵,kdp/variant,𦧃
 𡴎,kdp/variant,𡶫,戸籍異体
 𡶹,kdp/variant,𡹱
 𡸓,kdp/variant,𡺛,それぞれ華・羌の異体
 𡻭,kdp/variant,𡿜,［疑似簡体字］
 𡻱,kdp/variant,𡿔,［疑似簡体字］
 𢀊,kdp/variant,𧈊,⿸虍人/虎
+𢀎,kdp/variant,𤿄
 𢂛,kdp/variant,𢂤
 𢂠,kdp/variant,𢂙
 𢄛,kdp/variant,𢅂
@@ -756,6 +762,7 @@ kdp/variant,<rev>,kdp/variant
 𢵎,kdp/variant,𢵇
 𢵿,kdp/variant,𢶡
 𢷏,kdp/variant,𢪗,［疑似簡体字］
+𢸔,kdp/variant,𢹋
 𢼇,kdp/variant,𢻸
 𣁋,kdp/variant,𢼸
 𣂼,kdp/variant,𣂷
@@ -781,6 +788,7 @@ kdp/variant,<rev>,kdp/variant
 𣓉,kdp/variant,𣕹
 𣓧,kdp/variant,𣕏
 𣔵,kdp/variant,𣗸,⿱比/㲋
+𣙒,kdp/variant,𪔇
 𣝥,kdp/variant,𣛾
 𣞉,kdp/variant,𣞈
 𣟴,kdp/variant,𣠯
@@ -838,6 +846,7 @@ kdp/variant,<rev>,kdp/variant
 𤤒,kdp/variant,𤤣
 𤥔,kdp/variant,㓘
 𤥱,kdp/variant,𤦑
+𤦼,kdp/variant,𤧩
 𤪻,kdp/variant,𤪽
 𤫤,kdp/variant,𤨴,［疑似簡体字］
 𤬡,kdp/variant,𤬟,瓢
@@ -858,7 +867,6 @@ kdp/variant,<rev>,kdp/variant
 𥋯,kdp/variant,𥋮
 𥑚,kdp/variant,𥐱,宋本廣韻
 𥒏,kdp/variant,𥑷
-𥔳,kdp/variant,𥔼,确
 𥔴,kdp/variant,𥕙
 𥗪,kdp/variant,𥔣,［疑似簡体字］
 𥗸,kdp/variant,𥗰
@@ -973,7 +981,6 @@ kdp/variant,<rev>,kdp/variant
 𨓰,kdp/variant,𨘉,戸籍異体
 𨔋,kdp/variant,𨔘
 𨔚,kdp/variant,𫐻,⿱丑丑/芻
-𨔡,kdp/variant,𨔵,構造異体字
 𨔬,kdp/variant,𨔶
 𨕛,kdp/variant,𨔥
 𨖙,kdp/variant,𨖼
@@ -1041,7 +1048,6 @@ kdp/variant,<rev>,kdp/variant
 𩵊,kdp/variant,𩵉
 𩸼,kdp/variant,𩹣
 𩺾,kdp/variant,𩻯
-𩻜,kdp/variant,𩻿
 𩼍,kdp/variant,𩻼,その他
 𪀤,kdp/variant,𩾱,【大漢和】
 𪆵,kdp/variant,𪆟,𪀦 vs. 鶒→𪀦
@@ -1050,3 +1056,5 @@ kdp/variant,<rev>,kdp/variant
 𪙪,kdp/variant,𪙱,【大漢和】𪙽の異体
 𪚲,kdp/variant,𪚮
 𪳔,kdp/variant,𪿽,［疑似簡体字］
+𣽶,kdp/variant,𣿲
+𨻤,𡟨
