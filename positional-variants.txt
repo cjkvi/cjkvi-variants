@@ -283,6 +283,7 @@ kdp/variant/positional,<rev>,kdp/variant/positional
 噅,kdp/variant/positional,噕
 噍,kdp/variant/positional,𨿞
 嚉,kdp/variant/positional,𡁨
+嚴,kdp/variant/positional,𪠛
 圡,kdp/variant/positional,𡈽
 圱,kdp/variant/positional,圲
 坂,kdp/variant/positional,𡊃
@@ -325,6 +326,7 @@ kdp/variant/positional,<rev>,kdp/variant/positional
 墴,kdp/variant/positional,𡐳
 墺,kdp/variant/positional,𡒃
 壁,kdp/variant/positional,壀
+壁,kdp/variant/positional,𨐧
 壂,kdp/variant/positional,𡑴
 壅,kdp/variant/positional,㙲
 壘,kdp/variant/positional,㙼
@@ -843,6 +845,7 @@ kdp/variant/positional,<rev>,kdp/variant/positional
 翼,kdp/variant/positional,𦒖
 翾,kdp/variant/positional,𦒠
 耄,kdp/variant/positional,𣭢
+聖,kdp/variant/positional,𫆅
 聭,kdp/variant/positional,𩲽
 聳,kdp/variant/positional,𦗜
 聾,kdp/variant/positional,䏊
@@ -1053,6 +1056,7 @@ kdp/variant/positional,<rev>,kdp/variant/positional
 隿,kdp/variant/positional,𨾍
 雖,kdp/variant/positional,𧐌
 霒,kdp/variant/positional,𩃬
+靏,kdp/variant/positional,鸖
 靠,kdp/variant/positional,𩇸
 靾,kdp/variant/positional,𩊈
 鞍,kdp/variant/positional,鞌
@@ -1098,7 +1102,6 @@ kdp/variant/positional,<rev>,kdp/variant/positional
 驇,kdp/variant/positional,騺
 骴,kdp/variant/positional,𩨱
 髍,kdp/variant/positional,䯢
-鬭,kdp/variant/positional,鬬
 鬷,kdp/variant/positional,𩱅
 魄,kdp/variant/positional,𩲸
 魊,kdp/variant/positional,䰥
@@ -1961,3 +1964,7 @@ kdp/variant/positional,<rev>,kdp/variant/positional
 𫊬,kdp/variant/positional,𫊭
 𫗁,kdp/variant/positional,𫗂
 𫗃,kdp/variant/positional,𫗄
+藹,kdp/variant/positional,譪
+蘇,kdp/variant/positional,蘓
+闊,kdp/variant/positional,濶
+㖴,kdp/variant/positional,𦮶
