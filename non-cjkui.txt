@@ -90,6 +90,7 @@ non-cjkui/bracketed,<rev>,non-cjkui/regular
 𨸏,non-cjkui/radical,⻕
 阝,non-cjkui/radical,⻖
 雨,non-cjkui/radical,⻗
+靑,non-cjkui/radical,⻘
 青,non-cjkui/radical,⻘
 韦,non-cjkui/radical,⻙
 页,non-cjkui/radical,⻚
@@ -181,6 +182,8 @@ non-cjkui/bracketed,<rev>,non-cjkui/regular
 心,non-cjkui/kangxi,⼼
 戈,non-cjkui/kangxi,⼽
 戶,non-cjkui/kangxi,⼾
+戸,non-cjkui/kangxi,⼾
+户,non-cjkui/kangxi,⼾
 手,non-cjkui/kangxi,⼿
 支,non-cjkui/kangxi,⽀
 攴,non-cjkui/kangxi,⽁
