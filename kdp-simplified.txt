@@ -17,7 +17,7 @@
 # kdp/simplified/G2   … GB7589記載字（整理表と異なる）
 # kdp/simplified/G4   … GB7590記載字（整理表と異なる）
 # kdp/simplified/X    … 類推簡化字
-#
+# 𨴹
 kdp/complex,<rev>,kdp/simplified
 kdp/complex/p,<rev>,kdp/simplified/p
 kdp/complex/d,<rev>,kdp/simplified/d
@@ -5684,6 +5684,7 @@ kdp/complex/X,<rev>,kdp/simplified/X
 垸,kdp/simplified,垸
 垹,kdp/simplified,垹
 垺,kdp/simplified,垺
+垻,kdp/simplified,坝
 垼,kdp/simplified,垼
 垽,kdp/simplified,垽
 垾,kdp/simplified,垾
@@ -5935,7 +5936,6 @@ kdp/complex/X,<rev>,kdp/simplified/X
 壤,kdp/simplified,壤
 壧,kdp/simplified,⿰土严
 壩,kdp/simplified[1],坝
-垻,kdp/simplified,坝
 壪,kdp/simplified,塆
 士,kdp/simplified,士
 壬,kdp/simplified,壬
@@ -12314,6 +12314,7 @@ kdp/complex/X,<rev>,kdp/simplified/X
 瞬,kdp/simplified,瞬
 瞭,kdp/simplified,瞭,[zb1] liào，用于“瞭望”等。读liǎo时简化作“了”。
 瞭,kdp/simplified[1],了,[jhz] 读liǎo（了解）时，仍简作了，读liào（瞭望时）作瞭，不简作了。
+瞯,kdp/simplified,⿰目间,[zb1]
 瞯,kdp/simplified,⿰目闲
 瞰,kdp/simplified,瞰
 瞱,kdp/simplified,⿰目华
@@ -17978,8 +17979,8 @@ kdp/complex/X,<rev>,kdp/simplified/X
 閟,kdp/simplified,⿵门必
 閡,kdp/simplified[3],阂
 閣,kdp/simplified[3],阁
-閤,kdp/simplified[1],合
 閤,kdp/simplified/d,阁
+閤,kdp/simplified[1],合
 閥,kdp/simplified[3],阀
 閦,kdp/simplified,⿵门众
 閧,kdp/simplified/d,哄
@@ -18013,6 +18014,7 @@ kdp/complex/X,<rev>,kdp/simplified/X
 闌,kdp/simplified[3],阑
 闍,kdp/simplified,阇
 闐,kdp/simplified[3],阗
+闑,kdp/simplified,𫔶
 闑,kdp/simplified,𫔹
 闒,kdp/simplified,阘
 闓,kdp/simplified[3],闿
@@ -22286,7 +22288,7 @@ kdp/complex/X,<rev>,kdp/simplified/X
 𨴐,kdp/simplified,⿵门先
 𨴒,kdp/simplified,⿵门㓞
 𨴗,kdp/simplified,𨸅
-𨴹,kdp/simplified,𫔶
+𨴹,kdp/simplified,𫔲
 𨵈,kdp/simplified,⿵门非
 𨵉,kdp/simplified,⿵门幸
 𨵤,kdp/simplified,⿵门奇

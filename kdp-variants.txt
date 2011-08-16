@@ -428,7 +428,9 @@ kdp/variant,<rev>,kdp/variant
 獲,kdp/variant,𫉬,戸籍異体
 獿,kdp/variant,𠑍,大漢和
 玄,kdp/variant,𠵓,戸籍異体
-玄,kdp/variant,𤣥
+玄,kdp/variant,𤣥,忌諱
+恒,kdp/variant,𢘆,忌諱
+武,kdp/variant,㱐,忌諱
 王,kdp/variant,𤣉,== ''追加済''
 珋,kdp/variant,𤥗
 琴,kdp/variant,𪻴,誤字俗字・正字一覧表
