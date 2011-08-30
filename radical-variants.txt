@@ -18,6 +18,8 @@ radical/variant,<rev>,radical/regular
 糸,radical/variant,糹,left
 糸,radical/variant,纟,left
 网,radical/variant,罒,top
+网,radical/variant,㓁,top
+网,radical/variant,⺳,top
 羊,radical/variant,𦍌,top
 肉,radical/variant,月,left
 艸,radical/variant,艹,top

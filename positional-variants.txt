@@ -1968,3 +1968,12 @@ kdp/variant/positional,<rev>,kdp/variant/positional
 蘇,kdp/variant/positional,蘓
 闊,kdp/variant/positional,濶
 㖴,kdp/variant/positional,𦮶
+孭,kdp/variant/positional,𧴯
+蜇,kdp/variant/positional,𧋍
+暠,kdp/variant/positional,𣉞
+㫚,kdp/variant/positional,昒
+崠,kdp/variant/positional,崬
+岫,kdp/variant/positional,峀
+愉,kdp/variant/positional,愈
+擥,kdp/variant/positional,㩜
+焦,kdp/variant/positional,焳
