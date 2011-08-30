@@ -1,0 +1,14 @@
+# JIS X 0213 附属書11箇条3.2 に基づく異体字
+x0212-x0213/variants,<rev>,x0213-x0212/variants
+坦,x0213-x0212/variants,坥
+怛,x0213-x0212/variants,怚
+柤,x0213-x0212/variants,柦
+卺,x0213-x0212/variants,巹
+圯,x0213-x0212/variants,圮
+改,x0213-x0212/variants,攺
+茲,x0213-x0212/variants,玆
+柿,x0213-x0212/variants,杮
+𥁕,x0213-x0212/variants,昷
+彑,x0213-x0212/variants,彐
+痩,x0213-x0212/variants,瘦,JIS X 0213:2004
+繋,x0213-x0212/variants,繫,JIS X 0213:2004
