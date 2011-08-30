@@ -17,18 +17,18 @@
 # kdp/simplified/G2   … GB7589記載字（整理表と異なる）
 # kdp/simplified/G4   … GB7590記載字（整理表と異なる）
 # kdp/simplified/X    … 類推簡化字
-# 𨴹
-kdp/complex,<rev>,kdp/simplified
-kdp/complex/p,<rev>,kdp/simplified/p
-kdp/complex/d,<rev>,kdp/simplified/d
+# 
+kdp/traditional,<rev>,kdp/simplified
+kdp/traditional/p,<rev>,kdp/simplified/p
+kdp/traditional/d,<rev>,kdp/simplified/d
 kdp/variants/d,<rev>,kdp/simplified/1956
 kdp/variants/d,<rev>,kdp/simplified/1986
 kdp/variants/d,<rev>,kdp/simplified/1988
 kdp/variants/d,<rev>,kdp/simplified/1993
 kdp/variants/d,<rev>,kdp/simplified/1997
-kdp/complex/s,<rev>,kdp/simplified/s
-kdp/complex/e,<rev>,kdp/simplified/e
-kdp/complex/X,<rev>,kdp/simplified/X
+kdp/traditional/s,<rev>,kdp/simplified/s
+kdp/traditional/e,<rev>,kdp/simplified/e
+kdp/traditional/X,<rev>,kdp/simplified/X
 #
 㐁,kdp/simplified,㐁
 㐆,kdp/simplified,㐆
@@ -6921,7 +6921,6 @@ kdp/complex/X,<rev>,kdp/simplified/X
 嶽,kdp/simplified/d,岳
 嶾,kdp/simplified,嶾
 巁,kdp/simplified,⿰山厉
-巂,kdp/simplified,雟
 巃,kdp/simplified,⿱山龙
 巄,kdp/simplified,⿰山龙
 巆,kdp/simplified,⿰山营
@@ -12314,8 +12313,8 @@ kdp/complex/X,<rev>,kdp/simplified/X
 瞬,kdp/simplified,瞬
 瞭,kdp/simplified,瞭,[zb1] liào，用于“瞭望”等。读liǎo时简化作“了”。
 瞭,kdp/simplified[1],了,[jhz] 读liǎo（了解）时，仍简作了，读liào（瞭望时）作瞭，不简作了。
-瞯,kdp/simplified,⿰目间,[zb1]
 瞯,kdp/simplified,⿰目闲
+瞯,kdp/simplified,⿰目间,[zb1]
 瞰,kdp/simplified,瞰
 瞱,kdp/simplified,⿰目华
 瞲,kdp/simplified,瞲
@@ -18186,7 +18185,6 @@ kdp/complex/X,<rev>,kdp/simplified/X
 雜,kdp/simplified[1],杂
 雝,kdp/simplified/d,雍
 雞,kdp/simplified/d,鸡
-雟,kdp/simplified,巂
 雡,kdp/simplified,雡
 離,kdp/simplified[2],离
 難,kdp/simplified[2],难
@@ -21308,6 +21306,7 @@ kdp/complex/X,<rev>,kdp/simplified/X
 𥴮,kdp/simplified,𥴮
 𥴴,kdp/simplified,⿱竹钩
 𥴼,kdp/simplified,𫁺
+𥵃,kdp/simplified,𥱔
 𥵊,kdp/simplified,𥭉
 𥵣,kdp/simplified,𥵣
 𥵥,kdp/simplified,⿱竹满
@@ -22515,6 +22514,7 @@ kdp/complex/X,<rev>,kdp/simplified/X
 𩙛,kdp/simplified,⿺风薨
 𩚖,kdp/simplified,⿰饣丑
 𩚚,kdp/simplified,⿰饣厄
+𩚛,kdp/simplified,𩟿
 𩚥,kdp/simplified,𩠀
 𩚩,kdp/simplified,𫗡
 𩚵,kdp/simplified,𩠁

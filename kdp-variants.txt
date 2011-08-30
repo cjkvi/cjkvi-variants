@@ -85,6 +85,7 @@ kdp/variant,<rev>,kdp/variant
 佩,kdp/variant,珮
 佸,kdp/variant,𠉣
 侄,kdp/variant,𤞂,法務省 戸籍統一文字から
+來,kdp/variant,耒
 侯,kdp/variant,㑨
 俱,kdp/variant,⿰亻貝,誤字俗字・正字一覧表
 俿,kdp/variant,𠊤,⿸虍人/虎
@@ -107,9 +108,11 @@ kdp/variant,<rev>,kdp/variant
 冴,kdp/variant,𣲨,誤字俗字・正字一覧表
 凌,kdp/variant,⿰冫麦,誤字俗字・正字一覧表
 凞,kdp/variant,𠘑,pos
+処,kdp/variant,䖏
 凹,kdp/variant,窪
 出,kdp/variant,㞮
 刈,kdp/variant,乂
+刔,kdp/variant,抉
 前,kdp/variant,𫝐,Ext.D 
 剺,kdp/variant,𠞲
 劉,kdp/variant,𡭈,戸籍異体
@@ -139,6 +142,7 @@ kdp/variant,<rev>,kdp/variant
 咅,kdp/variant,㰯
 哞,kdp/variant,𪡂
 啑,kdp/variant,𠸝
+啗,kdp/variant,㗖
 啻,kdp/variant,啇,【説文】
 喂,kdp/variant,𠼊
 喜,kdp/variant,𠶮
@@ -169,6 +173,7 @@ kdp/variant,<rev>,kdp/variant
 塩,kdp/variant,䀋
 壇,kdp/variant,𫝠,Ext.D 
 壣,kdp/variant,𪤚,［疑似簡体字］  疑似。「㺦」参照。
+壩,kdp/variant,垻
 壹,kdp/variant,⿳冖豆,誤字俗字・正字一覧表
 夀,kdp/variant,𡔽,その他
 复,kdp/variant,㚆,复(復/複/覆)/㚆(D05717.0)
@@ -187,7 +192,9 @@ kdp/variant,<rev>,kdp/variant
 婕,kdp/variant,媫
 婚,kdp/variant,𡖀,𤔿の異体字
 媲,kdp/variant,嫓
+媲,kdp/variant,𡠌
 嫕,kdp/variant,𢟇,推定異体字
+嬢,kdp/variant,娘
 嬷,kdp/variant,𡚸,［疑似簡体字］  [么麽] 類推簡体字と考えられる。
 孝,kdp/variant,𦒱,誤字俗字・正字一覧表
 孟,kdp/variant,𡥀,説文
@@ -238,6 +245,7 @@ kdp/variant,<rev>,kdp/variant
 弖,kdp/variant,氐
 弘,kdp/variant,𢎞,忌諱
 弴,kdp/variant,𢐻
+強,kdp/variant,彊
 弸,kdp/variant,⿰弓明,誤字俗字・正字一覧表
 彦,kdp/variant,𫝸,Ext.D 
 往,kdp/variant,𨓏,戸籍異体
@@ -246,17 +254,20 @@ kdp/variant,<rev>,kdp/variant
 律,kdp/variant,侓,誤字俗字・正字一覧表
 徒,kdp/variant,𧺔,D37049.0
 得,kdp/variant,淂,誤字俗字・正字一覧表
+德,kdp/variant,惪
 念,kdp/variant,𢘈,法務省 戸籍統一文字から
 念,kdp/variant,𫝹,Ext.D 
 性,kdp/variant,𧢱,康熙字典
 怨,kdp/variant,𠨝,法務省 戸籍統一文字から
 恆,kdp/variant,𢗝,誤字俗字・正字一覧表
+恒,kdp/variant,𢘆,忌諱
 恬,kdp/variant,𢙖
 恭,kdp/variant,㳟,戸籍異体
 恵,kdp/variant,𢞯,戸籍異体
 悃,kdp/variant,𢛕,段注の誤字説による。
 悌,kdp/variant,⿰巾弟,誤字俗字・正字一覧表
 悛,kdp/variant,𢚔,誤字俗字・正字一覧表
+悤,kdp/variant,总
 悪,kdp/variant,𢙣,【用字便覧】
 惇,kdp/variant,⿰巾享,誤字俗字・正字一覧表
 惠,kdp/variant,𠀄,大漢和
@@ -266,6 +277,7 @@ kdp/variant,<rev>,kdp/variant
 憩,kdp/variant,愒
 應,kdp/variant,𢇭,法務省 戸籍統一文字から
 懜,kdp/variant,𢟼,［疑似簡体字］
+懷,kdp/variant,怌
 懿,kdp/variant,𡄻,誤字俗字・正字一覧表
 戀,kdp/variant,𤕈,法務省 戸籍統一文字から
 我,kdp/variant,𨖍,戸籍異体
@@ -275,6 +287,7 @@ kdp/variant,<rev>,kdp/variant
 所,kdp/variant,𠩄,法務省 戸籍統一文字から
 所,kdp/variant,𫝂,Ext.D 
 手,kdp/variant,𠂿,== ''追加済''
+才,kdp/variant,歲
 抆,kdp/variant,𢪛,学生字典
 抑,kdp/variant,𠨔,𢑏と𠨔
 抗,kdp/variant,杭
@@ -367,6 +380,7 @@ kdp/variant,<rev>,kdp/variant
 歠,kdp/variant,吷,説文段注
 正,kdp/variant,𠙺,則天文字
 步,kdp/variant,𣥗
+武,kdp/variant,㱐,忌諱
 歳,kdp/variant,𫞓,Ext.D 
 殲,kdp/variant,𫞔,Ext.D 
 殳,kdp/variant,𠬠
@@ -376,6 +390,8 @@ kdp/variant,<rev>,kdp/variant
 氂,kdp/variant,𣯷
 氏,kdp/variant,𫞕,Ext.D 
 民,kdp/variant,𫞖,Ext.D 
+氖,kdp/variant,氝,元素名
+氜,kdp/variant,氦,元素名
 氣,kdp/variant,氕,【漢字整理案】
 氾,kdp/variant,𣲆,誤字俗字・正字一覧表
 江,kdp/variant,𣲅
@@ -429,10 +445,9 @@ kdp/variant,<rev>,kdp/variant
 獿,kdp/variant,𠑍,大漢和
 玄,kdp/variant,𠵓,戸籍異体
 玄,kdp/variant,𤣥,忌諱
-恒,kdp/variant,𢘆,忌諱
-武,kdp/variant,㱐,忌諱
 王,kdp/variant,𤣉,== ''追加済''
 珋,kdp/variant,𤥗
+珪,kdp/variant,硅,元素名
 琴,kdp/variant,𪻴,誤字俗字・正字一覧表
 璿,kdp/variant,𤩷
 璿,kdp/variant,𤪓
@@ -455,6 +470,7 @@ kdp/variant,<rev>,kdp/variant
 癟,kdp/variant,𤻋,宋本廣韻（校正）
 癢,kdp/variant,𤸜,［疑似簡体字］  類推簡体字と考えられる。（痒）
 發,kdp/variant,彂,== ''追加済''
+百,kdp/variant,佰,numeric
 皓,kdp/variant,⿰自吿,誤字俗字・正字一覧表
 盈,kdp/variant,𫞯,Ext.D 
 盈,kdp/variant,𫞰,Ext.D 
@@ -476,13 +492,16 @@ kdp/variant,<rev>,kdp/variant
 睿,kdp/variant,𧇖
 睿,kdp/variant,𧇩
 瞋,kdp/variant,𥅜
+矏,kdp/variant,矈
 矩,kdp/variant,⿰夫巨,誤字俗字・正字一覧表
 矩,kdp/variant,⿰矢臣,誤字俗字・正字一覧表
+硼,kdp/variant,𥑢,元素名
 碩,kdp/variant,⿰石貝,誤字俗字・正字一覧表
 碵,kdp/variant,磌
 磐,kdp/variant,⿱⿰每殳石,誤字俗字・正字一覧表
 礚,kdp/variant,𥕤,［疑似簡体字］  簡体字は大漢和にない
 礣,kdp/variant,𥗥,宋本廣韻（校正）
+礴,kdp/variant,礡
 礼,kdp/variant,𥝏,誤字俗字・正字一覧表
 祐,kdp/variant,⿰礻厷,誤字俗字・正字一覧表
 祐,kdp/variant,⿰禾右,誤字俗字・正字一覧表
@@ -497,6 +516,7 @@ kdp/variant,<rev>,kdp/variant
 福,kdp/variant,褔,誤字俗字・正字一覧表
 禚,kdp/variant,𫌉,宋本廣韻の誤字
 秀,kdp/variant,秂
+秋,kdp/variant,䆋
 秋,kdp/variant,𥡌
 秋,kdp/variant,𥤚
 秦,kdp/variant,䄅,誤字俗字・正字一覧表
@@ -505,10 +525,13 @@ kdp/variant,<rev>,kdp/variant
 秭,kdp/variant,𥝱,その他
 稔,kdp/variant,⿰禾忩,誤字俗字・正字一覧表
 稔,kdp/variant,𤚋,誤字俗字・正字一覧表
+稿,kdp/variant,槀
 穆,kdp/variant,𥟙
+穫,kdp/variant,檴
 穴,kdp/variant,宂,その他
 穴,kdp/variant,𥤢
 空,kdp/variant,𫞹,Ext.D 
+窓,kdp/variant,䆫
 窕,kdp/variant,庣
 竃,kdp/variant,𫝰,Ext.D 
 竊,kdp/variant,𫁝,== ''追加済''
@@ -537,6 +560,7 @@ kdp/variant,<rev>,kdp/variant
 粂,kdp/variant,夈,誤字俗字・正字一覧表
 粎,kdp/variant,𥼶
 粧,kdp/variant,糚,［疑似簡体字］  粧 - 整理表（妝）
+糯,kdp/variant,粫
 糳,kdp/variant,𥽿
 絋,kdp/variant,紘,誤字俗字・正字一覧表
 結,kdp/variant,𦀽,誤字俗字・正字一覧表
@@ -549,6 +573,7 @@ kdp/variant,<rev>,kdp/variant
 緈,kdp/variant,𦁑
 緞,kdp/variant,𫟁,Ext.D 
 縢,kdp/variant,𦪝
+總,kdp/variant,縂
 罙,kdp/variant,𥥍
 羀,kdp/variant,罶,説文段注
 羊,kdp/variant,𦍋
@@ -576,6 +601,7 @@ kdp/variant,<rev>,kdp/variant
 臦,kdp/variant,𦣩,== ''追加済''
 臧,kdp/variant,𠗱
 臮,kdp/variant,𦤌,戸籍異体
+臯,kdp/variant,𦤎
 臱,kdp/variant,𦤝
 致,kdp/variant,𦤶
 臺,kdp/variant,𡌬,戸籍異体
@@ -607,6 +633,7 @@ kdp/variant,<rev>,kdp/variant
 莔,kdp/variant,𦹩
 莣,kdp/variant,𦯌
 菘,kdp/variant,𦮺
+菫,kdp/variant,堇
 菫,kdp/variant,蓳
 菱,kdp/variant,𫉍,誤字俗字・正字一覧表
 菷,kdp/variant,𦲅
@@ -665,6 +692,7 @@ kdp/variant,<rev>,kdp/variant
 裾,kdp/variant,𥚑,誤字俗字・正字一覧表
 褎,kdp/variant,䄂
 褎,kdp/variant,裦,譌字でした
+褻,kdp/variant,䙝
 襬,kdp/variant,䙓,［疑似簡体字］  類推簡体字と考えられる。（摆）
 襱,kdp/variant,䄣
 西,kdp/variant,覀
@@ -673,6 +701,7 @@ kdp/variant,<rev>,kdp/variant
 覍,kdp/variant,𢌮,説文段注
 觀,kdp/variant,𫟜,Ext.D 
 詾,kdp/variant,訩,字通
+誇,kdp/variant,侉
 誱,kdp/variant,𧪌
 諐,kdp/variant,𨔃,戸籍異体
 謢,kdp/variant,䛊,［疑似簡体字］
@@ -717,6 +746,9 @@ kdp/variant,<rev>,kdp/variant
 金,kdp/variant,𨥀,教育部異体字字典
 釫,kdp/variant,㭉
 鈄,kdp/variant,𨥪,戸籍異体
+鈹,kdp/variant,鋊,元素名
+鈹,kdp/variant,鋍,元素名
+鈹,kdp/variant,鑉,元素名
 鉄,kdp/variant,鉃,戸籍異体
 鉋,kdp/variant,銫
 鉚,kdp/variant,𨦰
@@ -742,6 +774,7 @@ kdp/variant,<rev>,kdp/variant
 閔,kdp/variant,𢞰,説文段注
 闃,kdp/variant,𨵢
 闌,kdp/variant,䦨,法務省 戸籍統一文字から
+關,kdp/variant,𨶹
 陴,kdp/variant,𩫮,説文
 隆,kdp/variant,䧏,法務省 戸籍統一文字から
 隰,kdp/variant,𫠃,Ext.D 日本略字
@@ -763,6 +796,7 @@ kdp/variant,<rev>,kdp/variant
 食,kdp/variant,𠊊,説文
 飦,kdp/variant,𩱡
 飲,kdp/variant,𩚜,説文段注
+養,kdp/variant,氧
 饙,kdp/variant,𩞑,字通・説文解字注
 饚,kdp/variant,𩞖,［疑似簡体字］
 馘,kdp/variant,聝,説文
@@ -773,6 +807,10 @@ kdp/variant,<rev>,kdp/variant
 騮,kdp/variant,𩤷,⿱一→丣
 髲,kdp/variant,𣬮,法務省 戸籍統一文字から
 鬢,kdp/variant,𩯫
+鬱,kdp/variant,欎
+鬱,kdp/variant,𣠈
+鬱,kdp/variant,𣠫
+鬱,kdp/variant,𦉤
 鬵,kdp/variant,𩱕
 鰬,kdp/variant,𩺇
 鳥,kdp/variant,𫠓,Ext.D 日本略字
@@ -781,14 +819,18 @@ kdp/variant,<rev>,kdp/variant
 鵻,kdp/variant,䳡,法務省 戸籍統一文字から
 鷹,kdp/variant,𫠕,Ext.D 日本異体字
 鸞,kdp/variant,鵉,［疑似簡体字］
+鹽,kdp/variant,䀋
+鹽,kdp/variant,𥂁
 麁,kdp/variant,𫝖,Ext.D 
 麖,kdp/variant,麠
+麽,kdp/variant,庅
 點,kdp/variant,㸃
 黼,kdp/variant,𤰍
 鼀,kdp/variant,𪓰
 齊,kdp/variant,𠄷,== ''追加済''
 齲,kdp/variant,𤘐
 龐,kdp/variant,龎,	#
+龝,kdp/variant,䆋
 𠀭,kdp/variant,𤔁,［疑似簡体字］
 𠁥,kdp/variant,𦫳
 𠁲,kdp/variant,𨸥,阱
@@ -1009,6 +1051,7 @@ kdp/variant,<rev>,kdp/variant
 𤻜,kdp/variant,𤹺,［疑似簡体字］
 𤾕,kdp/variant,暜
 𤿹,kdp/variant,𥀀
+𥁕,kdp/variant,昷
 𥁪,kdp/variant,𥁝
 𥄎,kdp/variant,𡕥
 𥅉,kdp/variant,𥅕
@@ -1045,6 +1088,7 @@ kdp/variant,<rev>,kdp/variant
 𥸇,kdp/variant,𥸂
 𥺣,kdp/variant,𥻤,⿱丑丑/芻
 𥼢,kdp/variant,𥽒
+𥽖,kdp/variant,𥺇
 𥿔,kdp/variant,𥾣,その他
 𥿯,kdp/variant,𥾭,の譌字
 𦁄,kdp/variant,𦁟
@@ -1112,6 +1156,7 @@ kdp/variant,<rev>,kdp/variant
 𧪢,kdp/variant,𧥷,［疑似簡体字］
 𧫣,kdp/variant,𧫷
 𧭊,kdp/variant,𧭙
+𧭮,kdp/variant,𧭇
 𧯊,kdp/variant,𧯈,隙
 𧰕,kdp/variant,𧰝
 𧱎,kdp/variant,𧱧
@@ -1124,6 +1169,7 @@ kdp/variant,<rev>,kdp/variant
 𨀔,kdp/variant,𨀅
 𨀨,kdp/variant,𫏎,宋本廣韻の誤字
 𨃒,kdp/variant,𨂹
+𨄣,kdp/variant,𨀱
 𨇞,kdp/variant,𨅫
 𨈇,kdp/variant,𫏠
 𨏽,kdp/variant,𨐀
@@ -1204,6 +1250,7 @@ kdp/variant,<rev>,kdp/variant
 𩼍,kdp/variant,𩻼,その他
 𪀤,kdp/variant,𩾱,【大漢和】
 𪆵,kdp/variant,𪆟,𪀦 vs. 鶒→𪀦
+𪋿,kdp/variant,𪎍
 𪏼,kdp/variant,𪏾
 𪓏,kdp/variant,𪓍
 𪙪,kdp/variant,𪙱,【大漢和】𪙽の異体
