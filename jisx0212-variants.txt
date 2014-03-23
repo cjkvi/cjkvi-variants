@@ -1,4 +1,5 @@
 jisx0212/variant,<rev>,jisx0212/variant
+jisx0212/variant,<name>,異体字（JIS X 0212）
 #
 亜,jisx0212/variant,亞
 #

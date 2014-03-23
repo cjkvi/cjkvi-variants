@@ -1,5 +1,7 @@
 # 
-joyo/regular,<rev>,joyo/variant
+joyo/proper,<rev>,joyo/variant
+joyo/proper,<name>,正字（常用漢字表）
+joyo/variant,<name>,異体字（常用漢字表）
 #
 亜,joyo/variant,亞
 悪,joyo/variant,惡

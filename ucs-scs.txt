@@ -1,5 +1,6 @@
 # 原規格分離一覧表
 ucs-scs/variant,<rev>,ucs-scs/variant
+ucs-scs/variant,<name>,異体字（原規格分離）
 #
 丟,ucs-scs/variant,丢
 #

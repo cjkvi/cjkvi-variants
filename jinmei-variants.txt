@@ -1,5 +1,9 @@
-jinmei1/variant,<rev>,jinmei1/regular
-jinmei2/variant,<rev>,jinmei2/regular
+jinmei1/variant,<rev>,jinmei1/proper
+jinmei2/variant,<rev>,jinmei2/proper
+jinmei1/variant,<name>,異体字（人名用漢字・別表１）
+jinmei1/proper,<name>,正字（人名用漢字・別表１）
+jinmei2/variant,<name>,異体字（人名用漢字・別表２）
+jinmei2/proper,<name>,正字（人名用漢字・別表２）
 #
 亘,jinmei1/variant,亙
 凜,jinmei1/variant,凛

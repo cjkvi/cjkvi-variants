@@ -1,3 +1,7 @@
+# 表外漢字字体表
+hyogai/proper,<name>,印刷標準字体（表外漢字字体表）
+hyogai/variant,<name>,簡易慣用字体（表外漢字字体表）
+hyogai/variant,<rev>,hyogai/proper
 繡,hyogai/variant,繍
 鷗,hyogai/variant,鴎
 蔣,hyogai/variant,蒋
