@@ -1,8 +1,25 @@
 # Typical Old-Style IVS from JIS X 0213:2000/2004 characters
-# 「旧字・旧かな入門」
+#
+# organized by: Taichi Kawabata
+#
+# 1st column :: Japanese simplified character (non Joyo-Kanji included.  IVS may be used)
+# 2nd column :: old character (IVS may be used when appropriate)
+# 3rd column :: compatibility character
+# 4th column :: comment
+#
 # ★は常用漢字でかつ「旧字・旧かな入門」に記載がない文字
 # ☆は「旧字・旧かな入門」に掲載されつつもAJ16にもHDにもない文字
-# modified and extended by Taichi Kawabata
+#
+# 参考資料
+# - 府川・小池「旧字旧かな入門」（柏書房）
+# - 常用漢字表
+# - 印刷標準字体表
+# - JIS X 0208:1997 規格表 (入れ替え・追加22文字等）
+# - JIS X 0213:2004 規格表
+# - Adobe GSUB テーブル (trad 等)
+# - Adobe cid2code.txt
+# - 斎藤修三郎 「青空パッケージ」（LaTeX2e的）
+#
 亜󠄀	亞󠄀
 唖󠄀	啞󠄀
 逢󠄀	逢󠄁
@@ -213,7 +230,7 @@
 喰󠄀	喰󠄁
 空󠄀	空󠄁
 遇󠄀	遇󠄁
-櫛󠄁	㵎󠄀
+櫛󠄁	櫛󠄀
 屑󠄀	屑󠄁
 靴󠄀	靴󠄁
 勲󠄀	勳󠄀
@@ -238,10 +255,12 @@
 軽󠄀	輕󠄀
 頚󠄀	頸󠄀
 鶏󠄀	鷄󠄀
+芸󠄀	芸󠄀
 芸󠄀	藝󠄀
 迎󠄀	迎󠄁
 撃󠄀	擊󠄀
 隙󠄀	𨻶󠄀
+欠󠄀	欠󠄀
 欠󠄀	缺󠄀
 潔󠄀	潔󠄁
 穴󠄀	穴󠄁
@@ -356,6 +375,7 @@
 姉󠄀	姊󠄀
 姿󠄀	姿󠄁
 祉󠄀	祉󠄁	祉
+糸󠄀	糸󠄀
 糸󠄀	絲󠄀
 視󠄀	視󠄁	視
 諮󠄀	諮󠄁
@@ -404,7 +424,8 @@
 粛󠄀	肅󠄀
 術󠄀	術󠄁
 述󠄀	述󠄁
-潤󠄀	弸󠄁
+弸󠄀	弸󠄁
+潤󠄀	潤󠄁
 巡󠄀	巡󠄁
 遵󠄀	遵󠄁
 処󠄀	處󠄀
@@ -589,7 +610,8 @@
 鯛󠄀	鯛󠄁
 台󠄀	臺󠄀
 滝󠄀	瀧󠄀
-啄󠄀	硺󠄀
+啄󠄀	啄󠄁
+硺	硺󠄀
 択󠄀	擇󠄀
 沢󠄀	澤󠄀
 濯󠄀	濯󠄁
@@ -621,6 +643,7 @@
 昼󠄀	晝󠄀
 柱󠄀	柱󠄁
 注󠄀	注󠄁
+虫󠄀	虫󠄀
 虫󠄀	蟲󠄀
 註󠄀	註󠄁
 鋳󠄀	鑄󠄀
@@ -855,6 +878,7 @@
 弁󠄀	辯󠄀
 弁󠄀	辨󠄀
 弁󠄀	辧󠄀
+弁	辦󠄀
 弁󠄀	辮󠄀		# ★
 鞭󠄀	鞭󠄀
 歩󠄀	步󠄀
@@ -1088,3 +1112,4 @@
 煒󠄀	煒󠄁
 䦰󠄀	鬮󠄀
 驊󠄀	驊󠄀
+𢭐	撈󠄀
