@@ -18,8 +18,8 @@ non-cjk/katakana,<name>,カタカナ
 non-cjk/bopomofo,<name>,ボポモフォ
 non-cjk/kanbun,<name>,漢文
 non-cjk/parenthesized,<name>,カッコ付き
-non-cjk/circled,<name>,◯囲み
-non-cjk/squared,<name>,□囲み
+non-cjk/circle,<name>,◯囲み
+non-cjk/square,<name>,□囲み
 non-cjk/bracketed,<name>,括弧付き
 non-cjk/proper,<name>,正字（非漢字）
 #

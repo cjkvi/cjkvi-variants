@@ -1,7 +1,7 @@
 # 通假字表
 #
-hydzd/borrowed,<name>,通假字（漢語大詞典）
 hydcd/borrowed,<rev>,hydcd/borrowed
+hydcd/borrowed,<name>,通假字（漢語大詞典）
 #
 仍,hydcd/borrowed,乃,5287
 #

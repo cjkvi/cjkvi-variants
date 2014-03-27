@@ -1,5 +1,5 @@
 jisx0213/variant,<rev>,jisx0213/variant
-jisx0212/variant,<name>,異体字（JIS X 0213）
+jisx0213/variant,<name>,異体字（JIS X 0213）
 #
 𥫣,jisx0213/variant,籅
 #

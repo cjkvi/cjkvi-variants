@@ -1,5 +1,5 @@
-# JIS X 0213 附属書11箇条3.2 に基づく異体字
 x0212-x0213/variants,<rev>,x0213-x0212/variants
+x0212-x0213/variants,<name>,異体字（JIS X 0213 附属書11箇条3.2）
 坦,x0213-x0212/variants,坥
 怛,x0213-x0212/variants,怚
 柤,x0213-x0212/variants,柦

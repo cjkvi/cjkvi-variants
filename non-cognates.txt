@@ -1,5 +1,6 @@
+# Copyright (c) 2014 CJKVI Database
 cjkvi/non-cognate,<rev>,cjkvi/non-cognate
-cjkvi/non-cognate,<name>,類型異字
+cjkvi/non-cognate,<name>,同型異字
 祖,cjkvi/non-cognate,𥘵
 䀹,cjkvi/non-cognate,䀹
 伵,cjkvi/non-cognate,𠇻
@@ -11,10 +12,6 @@ cjkvi/non-cognate,<name>,類型異字
 沮,cjkvi/non-cognate,泹
 炟,cjkvi/non-cognate,𤇅
 芈,cjkvi/non-cognate,𦍋
-𠃊,cjkvi/non-cognate,乚
-𤬨,cjkvi/non-cognate,𤬫
-𨒂,cjkvi/non-cognate,𨒌
-𦞧,cjkvi/non-cognate,𦞧
 𣎟,cjkvi/non-cognate,𦠅
 㐅,cjkvi/non-cognate,乂
 㐅,cjkvi/non-cognate,乄
@@ -43,7 +40,8 @@ cjkvi/non-cognate,<name>,類型異字
 㬺,cjkvi/non-cognate,幐
 㬻,cjkvi/non-cognate,䐠
 㭄,cjkvi/non-cognate,杋
-㱳,cjkvi/non-cognate,𡖶 [2 times]
+㱳,cjkvi/non-cognate,𡖶
+㱳,cjkvi/non-cognate,𡖶
 䀍,cjkvi/non-cognate,𧗜
 䆥,cjkvi/non-cognate,𡩙
 䏙,cjkvi/non-cognate,䏙
@@ -869,3 +867,4 @@ cjkvi/non-cognate,<name>,類型異字
 𪃣,cjkvi/non-cognate,𪆊
 䵝,cjkvi/non-cognate,𪐘
 默,cjkvi/non-cognate,𪐝
+穴,cjkvi/non-cognate,宂
