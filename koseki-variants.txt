@@ -1,6 +1,6 @@
 koseki/variant,<rev>,koseki/proper
-koseki/variant,<name>,異体字（戸籍）
-koseki/proper,<name>,正字（戸籍）
+koseki/variant,<name>,異体字（戸籍統一文字）
+koseki/proper,<name>,正字（戸籍統一文字）
 一,koseki/variant,𠤪
 一,koseki/variant,弌
 丁,koseki/variant,𠆤

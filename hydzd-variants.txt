@@ -1,10 +1,11 @@
 # 異體字表（漢語大詞典）
 #
 hydzd/proper,<name>,正體字（漢語大詞典）
+hydzd/traditional,<name>,繁體字（漢語大詞典）
 hydzd/simplified,<name>,𥳑體字（漢語大詞典）
 hydzd/variant,<name>,異體字（漢語大詞典）
 hydzd/variant,<rev>,hydzd/proper
-hydzd/simplified,<rev>,hydzd/proper
+hydzd/simplified,<rev>,hydzd/traditional
 #
 一,hydzd/variant,弌
 一,hydzd/variant,壹
