@@ -330,7 +330,6 @@ cjkvi/non-cognate,<name>,同型異字
 龙,cjkvi/non-cognate,㔫
 龙,cjkvi/non-cognate,𡯃
 㔫,cjkvi/non-cognate,𡯃
-龹,cjkvi/non-cognate,𠔉
 𠀒,cjkvi/non-cognate,𠂞
 𠂥,cjkvi/non-cognate,𠂨
 𠄁,cjkvi/non-cognate,𡯾
@@ -868,3 +867,4 @@ cjkvi/non-cognate,<name>,同型異字
 䵝,cjkvi/non-cognate,𪐘
 默,cjkvi/non-cognate,𪐝
 穴,cjkvi/non-cognate,宂
+乙,cjkvi/non-cognate,𠃉

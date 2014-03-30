@@ -66,3 +66,4 @@ cjkvi/duplicate,<name>,重複漢字
 𦯵,cjkvi/duplicate,萖
 𩒋,cjkvi/duplicate,𩑿
 𩿎,cjkvi/duplicate,𩿗
+𠔉,cjkvi/duplicate,龹
