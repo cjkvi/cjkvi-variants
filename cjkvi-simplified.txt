@@ -3,6 +3,34 @@ cjkvi/simplified,<name>,简化字
 cjkvi/variant-simplified,<name>,异体简化字
 cjkvi/pseudo-simplified,<name>,拟似简化字
 cjkvi/traditional,<name>,繁体字
+#
+#     Simplified        Traditional        Variants
+#
+#               simplified
+#         锺 <--------+---- 鍾
+#                     |
+#                     v
+#         钟 <----+---+---- 鐘
+#                 ^
+#                 |
+#                 +-------- 鈡
+#
+#                       simplified
+#         扬 <------------- 揚 <------+------ 颺
+#                       simplified    | (official)
+#         飏 <------------------------+
+#
+#                       simplified
+#         辉 <------------- 輝 <------+------ 煇
+#                 variant-simplified  | (unofficial)
+#         𪸩 <------------------------+
+#
+#         战 <------+------ 戰
+#                   |
+# Pseudo-Simplified |
+#                   |
+#         𢧐 <----- +
+#
 皚,cjkvi/simplified,皑
 藹,cjkvi/simplified,蔼
 礙,cjkvi/simplified,碍
