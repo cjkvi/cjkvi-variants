@@ -8284,7 +8284,7 @@ hydzd/simplified,<rev>,hydzd/traditional
 𤮱,hydzd/variant,𡓳
 𤮷,hydzd/variant,㽌
 正,hydzd/variant,㱏
-正,hydzd/variant,⿳一口止
+正,hydzd/variant,𣥔
 正,hydzd/variant,𤴓
 正,hydzd/variant,𧾸
 此,hydzd/variant,𣥅
