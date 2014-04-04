@@ -1,4 +1,5 @@
 koseki/variant,<rev>,koseki/proper
+koseki/variant,<rev>,koseki/proper
 koseki/variant,<name>,異体字（戸籍統一文字）
 koseki/proper,<name>,正字（戸籍統一文字）
 一,koseki/variant,𠤪
@@ -229,6 +230,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 佇,koseki/variant,竚
 佋,koseki/variant,巶
 低,koseki/variant,仾
+低,koseki/variant,𫢏
 体,koseki/variant,體
 余,koseki/variant,𠎳
 余,koseki/variant,餘
@@ -987,6 +989,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 𠤱,koseki/variant,𠤳
 𠥮,koseki/variant,㔷
 匣,koseki/variant,㭱
+㔷,koseki/variant,𫠥
 医,koseki/variant,醫
 𠤸,koseki/variant,𩋃
 𠤼,koseki/variant,𠥑
@@ -1298,6 +1301,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 否,koseki/variant,𡃠
 𠯑,koseki/variant,𤯁
 吪,koseki/variant,𨅌
+含,koseki/variant,𫩧
 𠯔,koseki/variant,𠰊
 吮,koseki/variant,𠵷
 吮,koseki/variant,𦧊
@@ -2119,6 +2123,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 墉,koseki/variant,䧡
 墉,koseki/variant,𩫃
 墉,koseki/variant,𩫱
+墋,koseki/variant,𫮅
 墌,koseki/variant,坧
 墍,koseki/variant,𡉙
 墍,koseki/variant,𡍳
@@ -2483,6 +2488,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 姪,koseki/variant,𡥺
 姫,koseki/variant,姬
 姬,koseki/variant,㚦
+姮,koseki/variant,𫰟
 姮,koseki/variant,嫦
 姸,koseki/variant,妍
 姸,koseki/variant,蔅
@@ -5054,6 +5060,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 𢽚,koseki/variant,𢧈
 㪏,koseki/variant,𢽛
 敝,koseki/variant,敞
+敡,koseki/variant,𫾻
 敢,koseki/variant,𠭖
 敢,koseki/variant,𢼿
 敢,koseki/variant,𢽤
@@ -5817,6 +5824,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 椁,koseki/variant,𥕖
 椃,koseki/variant,𣘫
 𣓗,koseki/variant,𣒪
+椅,koseki/variant,𬃪
 椉,koseki/variant,𣔕
 椊,koseki/variant,㯜
 植,koseki/variant,㯰
@@ -5969,6 +5977,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 横,koseki/variant,橫
 樫,koseki/variant,㭴
 槸,koseki/variant,𣞕
+樵,koseki/variant,𬋈
 樵,koseki/variant,𣟶
 樵,koseki/variant,𦿕
 樵,koseki/variant,藮
@@ -6294,6 +6303,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 㱠,koseki/variant,𣧮
 𣧸,koseki/variant,㰷
 殉,koseki/variant,𣧔
+𣧽,koseki/variant,𬆛
 殊,koseki/variant,𡥛
 残,koseki/variant,殘
 殍,koseki/variant,𣨈
@@ -6868,6 +6878,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 溘,koseki/variant,𣹆
 溜,koseki/variant,澑
 溜,koseki/variant,𤄐
+溟,koseki/variant,𬈑
 溠,koseki/variant,𤁺
 溢,koseki/variant,㳑
 𣹤,koseki/variant,𣸏
@@ -9350,6 +9361,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 神,koseki/variant,神
 祐,koseki/variant,𨳾
 祓,koseki/variant,𥘬
+祓,koseki/variant,𬒲
 祖,koseki/variant,𥘲
 祗,koseki/variant,𣱊
 祗,koseki/variant,𥙂
@@ -11430,6 +11442,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 臍,koseki/variant,𪗇
 臍,koseki/variant,𪗌
 䑂,koseki/variant,𦚪
+臏,koseki/variant,𬛜
 臏,koseki/variant,髕
 臐,koseki/variant,𦘶
 臐,koseki/variant,𦢜
@@ -13486,6 +13499,7 @@ koseki/proper,<name>,正字（戸籍統一文字）
 訏,koseki/variant,𧥦
 訑,koseki/variant,𧦩
 訑,koseki/variant,𧩹
+訓,koseki/variant,𫶧
 訓,koseki/variant,𧥥
 𧥥,koseki/variant,𧥿
 訕,koseki/variant,𡜜
