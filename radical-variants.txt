@@ -3,7 +3,7 @@ cjkvi/radical-variant,<rev>,cjkvi/radical-proper
 cjkvi/radical-variant,<name>,部首異体字
 cjkvi/radical-variant-simplified,<name>,部首簡化字
 cjkvi/radical-proper,<name>,部首字
-cjkvi/radical-split,<name>,部首分離IDS
+cjkvi/radical-split,<name>,部首IDS
 行,cjkvi/radical-split,⿲彳�亍
 衣,cjkvi/radical-split,⿳亠�𧘇
 舛,cjkvi/radical-split,⿳𫝀�㐄
