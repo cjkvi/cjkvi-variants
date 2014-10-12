@@ -110,10 +110,12 @@ cjkvi/variant,<name>,関連字（その他）
 䎩,cjkvi/variant,𫅾
 䐋,cjkvi/variant,𣎗
 䐋,cjkvi/variant,𦝰
+䑮,cjkvi/variant,䑮
 䒄,cjkvi/variant,䒇
 䒥,cjkvi/variant,𫷄
 䔨,cjkvi/variant,𬞼
 䔩,cjkvi/variant,𦵪
+䔬,cjkvi/variant,𦾲
 䔼,cjkvi/variant,𫊉
 䕄,cjkvi/variant,𧗆
 䕫,cjkvi/variant,𬞯
@@ -197,6 +199,7 @@ cjkvi/variant,<name>,関連字（その他）
 儒,cjkvi/variant,𪝥
 儓,cjkvi/variant,㒗
 儱,cjkvi/variant,𫣏
+儸,cjkvi/variant,𫢱
 儼,cjkvi/variant,𪝫
 儼,cjkvi/variant,𫤌
 儼,cjkvi/variant,𫤖
@@ -220,6 +223,7 @@ cjkvi/variant,<name>,関連字（その他）
 剒,cjkvi/variant,𠝖
 剓,cjkvi/variant,𠜣
 剢,cjkvi/variant,𫦀
+剪,cjkvi/variant,𠞳
 剺,cjkvi/variant,𠞲
 劆,cjkvi/variant,𠠟
 助,cjkvi/variant,㫑
@@ -258,6 +262,7 @@ cjkvi/variant,<name>,関連字（その他）
 吹,cjkvi/variant,𫰑
 呈,cjkvi/variant,𪰑
 咨,cjkvi/variant,𪡌
+哚,cjkvi/variant,𫩴
 唈,cjkvi/variant,𨙫
 唑,cjkvi/variant,𪠶
 唵,cjkvi/variant,𠺄
@@ -284,6 +289,7 @@ cjkvi/variant,<name>,関連字（その他）
 围,cjkvi/variant,𪢫
 圅,cjkvi/variant,𦥖
 圍,cjkvi/variant,𪢫
+圣,cjkvi/variant,𪢶
 圯,cjkvi/variant,𪣀
 坆,cjkvi/variant,𪢺
 坈,cjkvi/variant,𡊫
@@ -302,6 +308,7 @@ cjkvi/variant,<name>,関連字（その他）
 墻,cjkvi/variant,𫮰
 墻,cjkvi/variant,𫮶
 壈,cjkvi/variant,𡒄
+壑,cjkvi/variant,𫫽
 壑,cjkvi/variant,𫮺
 壠,cjkvi/variant,𡏡
 壡,cjkvi/variant,𫫽
@@ -343,6 +350,7 @@ cjkvi/variant,<name>,関連字（その他）
 寷,cjkvi/variant,𡫋
 寽,cjkvi/variant,𪧷
 小,cjkvi/variant,⺌
+尚,cjkvi/variant,𫩠
 尮,cjkvi/variant,𡯦
 山,cjkvi/variant,𠙸
 屹,cjkvi/variant,𪨦
@@ -512,6 +520,7 @@ cjkvi/variant,<name>,関連字（その他）
 櫸,cjkvi/variant,欅
 櫼,cjkvi/variant,㰇
 欅,cjkvi/variant,𣟱
+欆,cjkvi/variant,𣏪
 欝,cjkvi/variant,𬅜
 欹,cjkvi/variant,𣣱
 歛,cjkvi/variant,㰸
@@ -630,6 +639,7 @@ cjkvi/variant,<name>,関連字（その他）
 男,cjkvi/variant,㑲
 畐,cjkvi/variant,畗
 畑,cjkvi/variant,𫀪
+畿,cjkvi/variant,𤳀
 疋,cjkvi/variant,𨑜
 痙,cjkvi/variant,𫞬
 痷,cjkvi/variant,𤹃
@@ -652,6 +662,7 @@ cjkvi/variant,<name>,関連字（その他）
 矻,cjkvi/variant,𥐬
 矾,cjkvi/variant,𥐥
 砈,cjkvi/variant,𥑣
+砲,cjkvi/variant,𥓴
 硜,cjkvi/variant,𥑋
 硽,cjkvi/variant,𪿬
 磵,cjkvi/variant,礀
@@ -691,6 +702,7 @@ cjkvi/variant,<name>,関連字（その他）
 絹,cjkvi/variant,縜
 綱,cjkvi/variant,䋄
 網,cjkvi/variant,䋞
+緇,cjkvi/variant,𫊄
 線,cjkvi/variant,𪡠
 緞,cjkvi/variant,𫟁
 緮,cjkvi/variant,𦂊
@@ -703,6 +715,7 @@ cjkvi/variant,<name>,関連字（その他）
 纐,cjkvi/variant,𫹨
 纞,cjkvi/variant,𦃳
 缻,cjkvi/variant,𬎩
+罅,cjkvi/variant,𦉑
 罇,cjkvi/variant,𬲝
 罛,cjkvi/variant,𦊡
 義,cjkvi/variant,乂
@@ -724,14 +737,17 @@ cjkvi/variant,<name>,関連字（その他）
 舄,cjkvi/variant,𩁆
 舅,cjkvi/variant,旧
 與,cjkvi/variant,𫤰
+興,cjkvi/variant,𪥌
 興,cjkvi/variant,𬅊
 舊,cjkvi/variant,𫇰
 艮,cjkvi/variant,㿝
+芒,cjkvi/variant,𠅇
 芳,cjkvi/variant,𥫳
 苅,cjkvi/variant,𫟌
 苑,cjkvi/variant,𦭘
 苗,cjkvi/variant,苖
 英,cjkvi/variant,䇦
+茲,cjkvi/variant,𫠩
 荂,cjkvi/variant,𠌶
 菀,cjkvi/variant,𬜶
 菡,cjkvi/variant,𦴻
@@ -747,6 +763,7 @@ cjkvi/variant,<name>,関連字（その他）
 葵,cjkvi/variant,𫶙
 蒁,cjkvi/variant,𦳯
 蒦,cjkvi/variant,𦭜
+蒯,cjkvi/variant,𠞳
 蓰,cjkvi/variant,𦹼
 蓵,cjkvi/variant,𦻴
 蔗,cjkvi/variant,𬞈
@@ -850,6 +867,7 @@ cjkvi/variant,<name>,関連字（その他）
 邚,cjkvi/variant,㛕
 邠,cjkvi/variant,𨚇
 邢,cjkvi/variant,𨚆
+邵,cjkvi/variant,𨚷
 郁,cjkvi/variant,𨚺
 郰,cjkvi/variant,𨛿
 郼,cjkvi/variant,𨜢
@@ -864,9 +882,11 @@ cjkvi/variant,<name>,関連字（その他）
 釋,cjkvi/variant,𨤟
 鈍,cjkvi/variant,𫒇
 鈙,cjkvi/variant,𫒋
+鈸,cjkvi/variant,𬫆
 鉄,cjkvi/variant,鉃
 鉞,cjkvi/variant,龯
 銙,cjkvi/variant,𨨆
+銢,cjkvi/variant,𨥭
 銱,cjkvi/variant,鈟
 鋞,cjkvi/variant,𨧑
 鋞,cjkvi/variant,𫒔
@@ -893,6 +913,7 @@ cjkvi/variant,<name>,関連字（その他）
 鑌,cjkvi/variant,𨮘
 鑙,cjkvi/variant,𨮺
 鑰,cjkvi/variant,𫓂
+鑿,cjkvi/variant,𫠙
 钝,cjkvi/variant,𫒇
 镾,cjkvi/variant,𨱯
 閑,cjkvi/variant,𫔜
@@ -906,8 +927,11 @@ cjkvi/variant,<name>,関連字（その他）
 陘,cjkvi/variant,𫔽
 院,cjkvi/variant,𫕉
 陲,cjkvi/variant,𨻌
+陽,cjkvi/variant,𬯆
 隬,cjkvi/variant,𫕋
 隮,cjkvi/variant,𫕅
+雁,cjkvi/variant,𪁡
+集,cjkvi/variant,𫡤
 零,cjkvi/variant,𥥋
 霆,cjkvi/variant,𫑄
 霍,cjkvi/variant,𫁒
@@ -919,6 +943,7 @@ cjkvi/variant,<name>,関連字（その他）
 韟,cjkvi/variant,𩏤
 頃,cjkvi/variant,𩓏
 顂,cjkvi/variant,𩓋
+顛,cjkvi/variant,頕
 顨,cjkvi/variant,𩕧
 颴,cjkvi/variant,𩗟
 饚,cjkvi/variant,𩞖
@@ -940,15 +965,18 @@ cjkvi/variant,<name>,関連字（その他）
 鬬,cjkvi/variant,𩰚
 鬭,cjkvi/variant,𩰚
 鬮,cjkvi/variant,𩰘
+鬲,cjkvi/variant,䥶
 鬵,cjkvi/variant,𩱕
 鬻,cjkvi/variant,𩱌
 鬻,cjkvi/variant,𩱱
+魁,cjkvi/variant,𣁽
 魝,cjkvi/variant,魛
 鮕,cjkvi/variant,𩾀
 鮰,cjkvi/variant,𩶠
 鮹,cjkvi/variant,蛸
 鯍,cjkvi/variant,𩷮
 鯼,cjkvi/variant,𩼕
+鰒,cjkvi/variant,鰡
 鰕,cjkvi/variant,𫙨
 鰬,cjkvi/variant,𩺇
 鰺,cjkvi/variant,𩻦
@@ -959,11 +987,13 @@ cjkvi/variant,<name>,関連字（その他）
 鴇,cjkvi/variant,䴐
 鶯,cjkvi/variant,𦾉
 鸋,cjkvi/variant,𬷌
+鸖,cjkvi/variant,靍
 鸞,cjkvi/variant,鵉
 鸨,cjkvi/variant,𪀀
 鸹,cjkvi/variant,𫕛
 黎,cjkvi/variant,𪏭
 黼,cjkvi/variant,𤰍
+黽,cjkvi/variant,㫣
 黽,cjkvi/variant,勔
 黾,cjkvi/variant,𠖆
 齊,cjkvi/variant,𠄷
@@ -1035,6 +1065,7 @@ cjkvi/variant,<name>,関連字（その他）
 𠪾,cjkvi/variant,𢟍
 𠫾,cjkvi/variant,𪠞
 𠬕,cjkvi/variant,𠬖
+𠬪,cjkvi/variant,𪺍
 𠭢,cjkvi/variant,𠭮
 𠰇,cjkvi/variant,𠰡
 𠰒,cjkvi/variant,𠰚
@@ -1170,6 +1201,7 @@ cjkvi/variant,<name>,関連字（その他）
 𢣹,cjkvi/variant,𢤽
 𢤞,cjkvi/variant,𪬡
 𢪊,cjkvi/variant,𢪛
+𢫬,cjkvi/variant,𣪩
 𢫮,cjkvi/variant,𢬎
 𢬂,cjkvi/variant,𪭽
 𢮸,cjkvi/variant,𢰷
@@ -1290,6 +1322,7 @@ cjkvi/variant,<name>,関連字（その他）
 𣤖,cjkvi/variant,𣤢
 𣤶,cjkvi/variant,噈
 𣧑,cjkvi/variant,𪵂
+𣧷,cjkvi/variant,𬆔
 𣨏,cjkvi/variant,𣨨
 𣨐,cjkvi/variant,𬆖
 𣩁,cjkvi/variant,𣩂
@@ -1376,11 +1409,13 @@ cjkvi/variant,<name>,関連字（その他）
 𤫖,cjkvi/variant,𤫞
 𤫿,cjkvi/variant,𤬀
 𤬽,cjkvi/variant,𡨍
+𤬾,cjkvi/variant,𬎨
 𤮞,cjkvi/variant,𤮟
 𤯛,cjkvi/variant,𪯉
 𤯞,cjkvi/variant,𤯝
 𤯶,cjkvi/variant,𤰁
 𤯼,cjkvi/variant,𤯾
+𤱏,cjkvi/variant,𬏂
 𤵡,cjkvi/variant,𤹣
 𤵵,cjkvi/variant,𤵨
 𤷣,cjkvi/variant,𤸣
@@ -1458,6 +1493,7 @@ cjkvi/variant,<name>,関連字（その他）
 𦁤,cjkvi/variant,𦁇
 𦁰,cjkvi/variant,𦂖
 𦃍,cjkvi/variant,𦅳
+𦄛,cjkvi/variant,𦃓
 𦅀,cjkvi/variant,𦅛
 𦅜,cjkvi/variant,𦆭
 𦆀,cjkvi/variant,𦅗
@@ -1475,6 +1511,7 @@ cjkvi/variant,<name>,関連字（その他）
 𦍂,cjkvi/variant,𦍅
 𦎧,cjkvi/variant,𦎫
 𦎫,cjkvi/variant,𬙸
+𦑃,cjkvi/variant,𫅩
 𦒊,cjkvi/variant,𦑷
 𦒞,cjkvi/variant,𦒛
 𦒯,cjkvi/variant,𦒫
@@ -1780,6 +1817,7 @@ cjkvi/variant,<name>,関連字（その他）
 𪁐,cjkvi/variant,鵹
 𪁴,cjkvi/variant,𪁵
 𪃙,cjkvi/variant,𪃲
+𪆥,cjkvi/variant,𫛕
 𪆪,cjkvi/variant,𪅏
 𪆵,cjkvi/variant,𪆟
 𪇕,cjkvi/variant,𪇧
@@ -1797,6 +1835,7 @@ cjkvi/variant,<name>,関連字（その他）
 𪕁,cjkvi/variant,𪕎
 𪖫,cjkvi/variant,𪖬
 𪗗,cjkvi/variant,𪙧
+𪘉,cjkvi/variant,𬹵
 𪙩,cjkvi/variant,𪙨
 𪙲,cjkvi/variant,𪙈
 𪚮,cjkvi/variant,𪚲
