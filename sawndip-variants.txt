@@ -542,8 +542,6 @@ sawndip/regular,<name>,親字（古壮字字典）
 坎,sawndip/variant,崁
 坎,sawndip/variant,龕
 坎,sawndip/variant,龛
-坖,sawndip/variant,𡄎
-坖,sawndip/variant,𪡗
 坤,sawndip/variant,魂
 坽,sawndip/variant,令
 坽,sawndip/variant,嶺
@@ -1572,6 +1570,7 @@ sawndip/regular,<name>,親字（古壮字字典）
 𡗶,sawndip/variant,𨑗
 𡚻,sawndip/variant,妖
 𡚻,sawndip/variant,驮
+𡚻,sawndip/variant,𫰋
 𡛕,sawndip/variant,胎
 𡛳,sawndip/variant,娝
 𡛳,sawndip/variant,婢
@@ -1886,7 +1885,7 @@ sawndip/regular,<name>,親字（古壮字字典）
 𥫞,sawndip/variant,𥯨
 𥫢,sawndip/variant,㐅
 𥫭,sawndip/variant,弩
-𥫰,sawndip/variant,箓
+𥫰,sawndip/variant,𥭼
 𥫼,sawndip/variant,箪
 𥫿,sawndip/variant,䕶
 𥫿,sawndip/variant,賀
@@ -1958,7 +1957,7 @@ sawndip/regular,<name>,親字（古壮字字典）
 𧉼,sawndip/variant,𤇥
 𧊂,sawndip/variant,㖦
 𧊂,sawndip/variant,𧐺
-𧊅,sawndip/variant,䱇
+𧊅,sawndip/variant,䱉
 𧊅,sawndip/variant,虵
 𧊅,sawndip/variant,蛆
 𧊅,sawndip/variant,蛌
@@ -2204,7 +2203,7 @@ sawndip/regular,<name>,親字（古壮字字典）
 𫩖,sawndip/variant,门
 𫩝,sawndip/variant,之
 𫩵,sawndip/variant,帝
-𫩵,sawndip/variant,戻
+𫩵,sawndip/variant,戾
 𫩵,sawndip/variant,捩
 𫩵,sawndip/variant,礼
 𫩵,sawndip/variant,累
@@ -2236,7 +2235,7 @@ sawndip/regular,<name>,親字（古壮字字典）
 𫯞,sawndip/variant,宏
 𫯞,sawndip/variant,洪
 𫯞,sawndip/variant,空
-𫯞,sawndip/variant,𠒆
+𫯞,sawndip/variant,𠒋
 𫯞,sawndip/variant,𪥔
 𫯞,sawndip/variant,𪩣
 𫰈,sawndip/variant,下
