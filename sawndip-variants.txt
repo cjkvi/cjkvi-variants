@@ -2104,7 +2104,6 @@ sawndip/regular,<name>,親字（古壮字字典）
 𪤠,sawndip/variant,藟
 𪤠,sawndip/variant,𡉁
 𪤠,sawndip/variant,𪨼
-𪦸,sawndip/variant,的
 𪬨,sawndip/variant,𪷑
 𪭥,sawndip/variant,佐
 𪭥,sawndip/variant,左
@@ -2316,8 +2315,6 @@ sawndip/regular,<name>,親字（古壮字字典）
 𬌫,sawndip/variant,庅
 𬌫,sawndip/variant,犸
 𬌫,sawndip/variant,獁
-𬌫,sawndip/variant,𤜽
-𬌫,sawndip/variant,𪽖
 𬌫,sawndip/variant,𬍄
 𬌴,sawndip/variant,狑
 𬐈,sawndip/variant,皜
