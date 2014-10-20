@@ -1815,7 +1815,7 @@ cjkvi/traditional,<name>,繁体字
 嬩,cjkvi/simplified,⿰弓与
 嬪,cjkvi/simplified,嫔
 嬭,cjkvi/simplified,奶
-嬮,cjkvi/simplified,⿸厂⿱犬女
+嬮,cjkvi/simplified,⿸厌女
 嬰,cjkvi/simplified,婴
 嬱,cjkvi/simplified,⿱渐女
 嬸,cjkvi/simplified,婶
@@ -2139,7 +2139,7 @@ cjkvi/traditional,<name>,繁体字
 應,cjkvi/simplified,应
 懌,cjkvi/simplified,怿
 懎,cjkvi/simplified,𢠁
-懕,cjkvi/simplified,⿸厂⿱犬心
+懕,cjkvi/simplified,⿸厌心
 懖,cjkvi/simplified,⿱铦心
 懘,cjkvi/simplified,⿱滞心
 懙,cjkvi/simplified,𫹮
@@ -2282,7 +2282,7 @@ cjkvi/traditional,<name>,繁体字
 擣,cjkvi/simplified,捣
 擥,cjkvi/simplified,㧛
 擧,cjkvi/simplified,举
-擪,cjkvi/simplified,⿸厂⿱犬手
+擪,cjkvi/simplified,⿸厌手
 擫,cjkvi/simplified,𢬍
 擬,cjkvi/simplified,拟
 擯,cjkvi/simplified,摈
@@ -2547,7 +2547,7 @@ cjkvi/traditional,<name>,繁体字
 檸,cjkvi/simplified,柠
 檻,cjkvi/simplified,槛
 檾,cjkvi/simplified,⿱艹冧
-檿,cjkvi/simplified,⿸厂⿱犬木
+檿,cjkvi/simplified,⿸厌木
 櫂,cjkvi/simplified,棹
 櫃,cjkvi/simplified,柜
 櫅,cjkvi/simplified,𪲎
@@ -7251,6 +7251,7 @@ cjkvi/traditional,<name>,繁体字
 𤾠,cjkvi/simplified,⿰白单
 𤿀,cjkvi/simplified,⿰白赞
 𥀢,cjkvi/simplified,⿰贲皮
+𥀬,cjkvi/simplified,𪠏
 𥀵,cjkvi/simplified,⿰卢皮
 𥂫,cjkvi/simplified,⿱残皿
 𥂸,cjkvi/simplified,𬐠
@@ -11984,6 +11985,7 @@ cjkvi/traditional,<name>,繁体字
 𪠀,cjkvi/traditional,𧷎
 𪠃,cjkvi/traditional,𫨑
 𪠌,cjkvi/traditional,⿸厂頃
+𪠏,cjkvi/traditional,𥀬
 𪠟,cjkvi/traditional,㓄
 𪠡,cjkvi/traditional,𠬙
 𪠳,cjkvi/traditional,唓
