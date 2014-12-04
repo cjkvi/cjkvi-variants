@@ -1,6 +1,6 @@
-twedu/variant,<reverse>,twedu/regular
 twedu/variant,<name>,異體字（民國教育部）
-twedu/regular,<name>,正字（民國教育部）
+twedu/proper,<name>,正字（民國教育部）
+twedu/variant,<rev>,twedu/proper
 一,twedu/variant,𠤪
 一,twedu/variant,弌
 一,twedu/variant,壹
