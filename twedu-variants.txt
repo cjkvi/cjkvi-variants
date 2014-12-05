@@ -1,6 +1,7 @@
+twedu/variant,<reverse>,twedu/regular
+twedu/variant,<rev>,twedu/regular
 twedu/variant,<name>,異體字（民國教育部）
-twedu/proper,<name>,正字（民國教育部）
-twedu/variant,<rev>,twedu/proper
+twedu/regular,<name>,正字（民國教育部）
 一,twedu/variant,𠤪
 一,twedu/variant,弌
 一,twedu/variant,壹
@@ -15,6 +16,7 @@ twedu/variant,<rev>,twedu/proper
 丈,twedu/variant,𠀋
 丈,twedu/variant,支
 上,twedu/variant,丄
+上,twedu/variant,二
 丑,twedu/variant,𠃠
 丑,twedu/variant,丒
 丐,twedu/variant,匄
@@ -28,11 +30,13 @@ twedu/variant,<rev>,twedu/proper
 世,twedu/variant,卋
 世,twedu/variant,㔺
 世,twedu/variant,𠦔
+世,twedu/variant,芔
 丕,twedu/variant,㔻
 丕,twedu/variant,𠦓
 丕,twedu/variant,㶨
 且,twedu/variant,𠀃
 且,twedu/variant,𠀇
+且,twedu/variant,𣅂
 丘,twedu/variant,𠀈
 丘,twedu/variant,㐀
 丘,twedu/variant,丠
@@ -41,6 +45,7 @@ twedu/variant,<rev>,twedu/proper
 丘,twedu/variant,𡊣
 丘,twedu/variant,𤤘
 丘,twedu/variant,𠀉
+丘,twedu/variant,业
 丘,twedu/variant,坵
 丞,twedu/variant,㞼
 丟,twedu/variant,丢
@@ -107,6 +112,7 @@ twedu/variant,<rev>,twedu/proper
 乘,twedu/variant,𨍱
 乘,twedu/variant,𠓽
 乙,twedu/variant,乚
+乙,twedu/variant,𠃊
 九,twedu/variant,𢌬
 九,twedu/variant,𣲄
 九,twedu/variant,玖
@@ -184,6 +190,7 @@ twedu/variant,<rev>,twedu/proper
 亥,twedu/variant,𠦇
 亥,twedu/variant,𢁓
 亥,twedu/variant,𢁳
+亥,twedu/variant,㐪
 亥,twedu/variant,𧰧
 亨,twedu/variant,𠅖
 亨,twedu/variant,亯
@@ -284,6 +291,7 @@ twedu/variant,<rev>,twedu/proper
 你,twedu/variant,儞
 低,twedu/variant,仾
 低,twedu/variant,𠍪
+余,twedu/variant,𪜬
 余,twedu/variant,𠎳
 使,twedu/variant,𠉕
 使,twedu/variant,𡥐
@@ -394,6 +402,7 @@ twedu/variant,<rev>,twedu/proper
 偺,twedu/variant,偺
 偽,twedu/variant,僞
 假,twedu/variant,仮
+假,twedu/variant,𪝒
 假,twedu/variant,叚
 假,twedu/variant,𠭊
 偃,twedu/variant,𤑅
@@ -419,6 +428,7 @@ twedu/variant,<rev>,twedu/proper
 備,twedu/variant,𦯞
 備,twedu/variant,俻
 備,twedu/variant,𤰇
+備,twedu/variant,㑲
 備,twedu/variant,𤰅
 傀,twedu/variant,𠎺
 傀,twedu/variant,𠐦
@@ -437,6 +447,8 @@ twedu/variant,<rev>,twedu/proper
 傲,twedu/variant,慠
 傲,twedu/variant,㥿
 傲,twedu/variant,𢢡
+傳,twedu/variant,𫝊
+傳,twedu/variant,𪫖
 傳,twedu/variant,伝
 僅,twedu/variant,㢙
 僅,twedu/variant,仅
@@ -461,6 +473,7 @@ twedu/variant,<rev>,twedu/proper
 億,twedu/variant,𠐥
 億,twedu/variant,𢡃
 儀,twedu/variant,𥫃
+儀,twedu/variant,𪜧
 僻,twedu/variant,𠒱
 僵,twedu/variant,傹
 價,twedu/variant,価
@@ -483,6 +496,7 @@ twedu/variant,<rev>,twedu/proper
 儼,twedu/variant,偘
 兀,twedu/variant,㐳
 允,twedu/variant,㽙
+允,twedu/variant,𠃔
 充,twedu/variant,𠘺
 充,twedu/variant,𠑽
 光,twedu/variant,𠈑
@@ -552,6 +566,8 @@ twedu/variant,<rev>,twedu/proper
 兩,twedu/variant,两
 兩,twedu/variant,㒳
 兩,twedu/variant,刃
+兩,twedu/variant,刅
+兩,twedu/variant,𢎏
 兩,twedu/variant,刄
 六,twedu/variant,𠫪
 六,twedu/variant,陸
@@ -566,6 +582,8 @@ twedu/variant,<rev>,twedu/proper
 兵,twedu/variant,𠡿
 兵,twedu/variant,𠬿
 兵,twedu/variant,𠦛
+兵,twedu/variant,𠊏
+兵,twedu/variant,𡲍
 具,twedu/variant,具
 具,twedu/variant,𥃲
 具,twedu/variant,𥃲
@@ -647,6 +665,7 @@ twedu/variant,<rev>,twedu/proper
 冰,twedu/variant,氷
 冰,twedu/variant,𣲝
 冰,twedu/variant,冫
+冰,twedu/variant,𣲙
 冰,twedu/variant,𨻱
 冷,twedu/variant,𠘤
 冽,twedu/variant,𠗗
@@ -847,7 +866,9 @@ twedu/variant,<rev>,twedu/proper
 劫,twedu/variant,刼
 劫,twedu/variant,𠞏
 助,twedu/variant,𤋰
+助,twedu/variant,𧴧
 助,twedu/variant,㫑
+助,twedu/variant,𦔳
 努,twedu/variant,伮
 劾,twedu/variant,𠜨
 劾,twedu/variant,𠡌
@@ -921,6 +942,10 @@ twedu/variant,<rev>,twedu/proper
 化,twedu/variant,𠏁
 化,twedu/variant,𠤎
 化,twedu/variant,𠯒
+化,twedu/variant,匕
+化,twedu/variant,𫁉
+化,twedu/variant,㐶
+化,twedu/variant,𠆧
 北,twedu/variant,北
 北,twedu/variant,𧉥
 匙,twedu/variant,㔭
@@ -948,6 +973,7 @@ twedu/variant,<rev>,twedu/proper
 區,twedu/variant,区
 十,twedu/variant,拾
 千,twedu/variant,仟
+升,twedu/variant,㚈
 卅,twedu/variant,𠦃
 卅,twedu/variant,卉
 卉,twedu/variant,卉
@@ -989,6 +1015,8 @@ twedu/variant,<rev>,twedu/proper
 卯,twedu/variant,夘
 卯,twedu/variant,丣
 卯,twedu/variant,𩇦
+卯,twedu/variant,𠨍
+卯,twedu/variant,邜
 卮,twedu/variant,𠂬
 卮,twedu/variant,巵
 卮,twedu/variant,𠨬
@@ -1005,6 +1033,7 @@ twedu/variant,<rev>,twedu/proper
 即,twedu/variant,即
 卵,twedu/variant,𤓲
 卵,twedu/variant,卝
+卵,twedu/variant,𡖉
 卷,twedu/variant,𠨟
 卷,twedu/variant,㢧
 卷,twedu/variant,𨤖
@@ -1033,6 +1062,7 @@ twedu/variant,<rev>,twedu/proper
 厄,twedu/variant,𢨩
 厄,twedu/variant,戹
 厄,twedu/variant,𠂬
+厄,twedu/variant,𠨬
 厄,twedu/variant,𢨤
 厚,twedu/variant,𠩞
 厚,twedu/variant,𠩰
@@ -1092,6 +1122,7 @@ twedu/variant,<rev>,twedu/proper
 友,twedu/variant,𦬧
 友,twedu/variant,犮
 友,twedu/variant,𦐯
+友,twedu/variant,发
 及,twedu/variant,乁
 及,twedu/variant,𢎜
 及,twedu/variant,𨕤
@@ -1155,6 +1186,7 @@ twedu/variant,<rev>,twedu/proper
 史,twedu/variant,㕜
 叱,twedu/variant,𠻟
 台,twedu/variant,㣍
+台,twedu/variant,𠘭
 台,twedu/variant,𠮯
 句,twedu/variant,𤖮
 句,twedu/variant,勾
@@ -1214,6 +1246,7 @@ twedu/variant,<rev>,twedu/proper
 呈,twedu/variant,呈
 呂,twedu/variant,吕
 呂,twedu/variant,膂
+呂,twedu/variant,𦛗
 君,twedu/variant,𠱩
 君,twedu/variant,𠱭
 君,twedu/variant,𠱰
@@ -1293,6 +1326,7 @@ twedu/variant,<rev>,twedu/proper
 咬,twedu/variant,䶧
 咬,twedu/variant,嚙
 哀,twedu/variant,𢜺
+咨,twedu/variant,𪡌
 咨,twedu/variant,諮
 哉,twedu/variant,𠳆
 哉,twedu/variant,㦲
@@ -1403,6 +1437,8 @@ twedu/variant,<rev>,twedu/proper
 喜,twedu/variant,𡔯
 喜,twedu/variant,𢐭
 喜,twedu/variant,憘
+喜,twedu/variant,𢝫
+喜,twedu/variant,𦬅
 喪,twedu/variant,䘮
 喪,twedu/variant,𠷔
 喪,twedu/variant,𠸶
@@ -1594,6 +1630,7 @@ twedu/variant,<rev>,twedu/proper
 四,twedu/variant,𠁤
 四,twedu/variant,𦉭
 四,twedu/variant,皿
+四,twedu/variant,龱
 四,twedu/variant,肆
 囚,twedu/variant,㘝
 因,twedu/variant,囙
@@ -1629,8 +1666,11 @@ twedu/variant,<rev>,twedu/proper
 國,twedu/variant,𡈑
 國,twedu/variant,𢧌
 國,twedu/variant,𡆸
+國,twedu/variant,𠰧
 國,twedu/variant,戜
+國,twedu/variant,𢧰
 圍,twedu/variant,囲
+圍,twedu/variant,𪢫
 園,twedu/variant,薗
 園,twedu/variant,园
 園,twedu/variant,𡈤
@@ -1649,6 +1689,7 @@ twedu/variant,<rev>,twedu/proper
 圖,twedu/variant,図
 土,twedu/variant,圡
 土,twedu/variant,士
+土,twedu/variant,𡗓
 地,twedu/variant,坔
 地,twedu/variant,埊
 地,twedu/variant,墬
@@ -1998,11 +2039,14 @@ twedu/variant,<rev>,twedu/proper
 夫,twedu/variant,𧥱
 太,twedu/variant,夳
 太,twedu/variant,𣡳
+夭,twedu/variant,𫯛
 夭,twedu/variant,𡕟
 夭,twedu/variant,𡰭
+夭,twedu/variant,叐
 失,twedu/variant,𢩥
 夷,twedu/variant,𡗝
 夷,twedu/variant,𡰥
+夷,twedu/variant,𡖴
 夸,twedu/variant,𡗴
 夸,twedu/variant,𡘆
 奉,twedu/variant,𠬻
@@ -2611,6 +2655,7 @@ twedu/variant,<rev>,twedu/proper
 岡,twedu/variant,冈
 岡,twedu/variant,㓻
 岡,twedu/variant,堽
+岡,twedu/variant,𡹤
 岸,twedu/variant,垾
 岸,twedu/variant,㟁
 岸,twedu/variant,屽
@@ -2704,6 +2749,7 @@ twedu/variant,<rev>,twedu/proper
 州,twedu/variant,𠛏
 州,twedu/variant,𣧓
 州,twedu/variant,刕
+州,twedu/variant,𢏝
 巢,twedu/variant,巣
 巢,twedu/variant,巢
 巢,twedu/variant,𤔥
@@ -2718,6 +2764,7 @@ twedu/variant,<rev>,twedu/proper
 巧,twedu/variant,㤍
 左,twedu/variant,𢀡
 左,twedu/variant,𠂇
+左,twedu/variant,屮
 巫,twedu/variant,𠮎
 巫,twedu/variant,𢍮
 巫,twedu/variant,𢀣
@@ -2836,6 +2883,7 @@ twedu/variant,<rev>,twedu/proper
 幹,twedu/variant,𠧄
 幹,twedu/variant,𩩃
 幹,twedu/variant,干
+幹,twedu/variant,䯎
 幻,twedu/variant,𠄔
 幻,twedu/variant,㕕
 幻,twedu/variant,𢆱
@@ -3038,6 +3086,7 @@ twedu/variant,<rev>,twedu/proper
 彤,twedu/variant,蚒
 形,twedu/variant,形
 形,twedu/variant,𢒈
+形,twedu/variant,𠀦
 彥,twedu/variant,彦
 彥,twedu/variant,𢒊
 彬,twedu/variant,斌
@@ -3969,6 +4018,7 @@ twedu/variant,<rev>,twedu/proper
 效,twedu/variant,傚
 效,twedu/variant,俲
 敖,twedu/variant,𢾍
+敖,twedu/variant,𢾕
 救,twedu/variant,𧘶
 救,twedu/variant,𣪋
 救,twedu/variant,㤹
@@ -3998,6 +4048,7 @@ twedu/variant,<rev>,twedu/proper
 敘,twedu/variant,叙
 敘,twedu/variant,𣁏
 敘,twedu/variant,敍
+敘,twedu/variant,𪠩
 敦,twedu/variant,㪟
 敦,twedu/variant,𣀦
 敦,twedu/variant,𢼪
@@ -4144,6 +4195,7 @@ twedu/variant,<rev>,twedu/proper
 日,twedu/variant,𡆸
 日,twedu/variant,𡇗
 日,twedu/variant,𡈎
+旦,twedu/variant,𣅂
 旦,twedu/variant,且
 旦,twedu/variant,㫜
 早,twedu/variant,𣅼
@@ -4296,8 +4348,10 @@ twedu/variant,<rev>,twedu/proper
 曦,twedu/variant,𣎮
 曦,twedu/variant,爔
 曲,twedu/variant,𠚖
+曲,twedu/variant,𡆪
 曳,twedu/variant,曵
 曳,twedu/variant,𦥙
+曳,twedu/variant,电
 更,twedu/variant,𠭍
 更,twedu/variant,㪅
 書,twedu/variant,𦘠
@@ -4517,6 +4571,7 @@ twedu/variant,<rev>,twedu/proper
 梅,twedu/variant,槑
 梅,twedu/variant,梅
 梅,twedu/variant,坆
+梅,twedu/variant,呆
 梅,twedu/variant,𣒫
 梅,twedu/variant,𣏁
 梔,twedu/variant,栀
@@ -4767,6 +4822,7 @@ twedu/variant,<rev>,twedu/proper
 歷,twedu/variant,歴
 歷,twedu/variant,𡿌
 歷,twedu/variant,𢊆
+歷,twedu/variant,𡻤
 歸,twedu/variant,㱕
 歸,twedu/variant,𣦨
 歸,twedu/variant,䢜
@@ -4796,6 +4852,7 @@ twedu/variant,<rev>,twedu/proper
 歿,twedu/variant,𣨏
 歿,twedu/variant,歾
 歿,twedu/variant,𣨨
+歿,twedu/variant,𪠲
 歿,twedu/variant,圽
 殃,twedu/variant,䄃
 殃,twedu/variant,𥙏
@@ -5223,6 +5280,7 @@ twedu/variant,<rev>,twedu/proper
 溺,twedu/variant,𡲳
 溺,twedu/variant,氼
 溺,twedu/variant,㲻
+溺,twedu/variant,𣲙
 溫,twedu/variant,温
 溫,twedu/variant,昷
 準,twedu/variant,凖
@@ -5440,6 +5498,7 @@ twedu/variant,<rev>,twedu/proper
 炕,twedu/variant,𤇛
 炕,twedu/variant,𤌁
 炎,twedu/variant,炏
+炎,twedu/variant,𡗩
 炒,twedu/variant,㶤
 炒,twedu/variant,𤊛
 炒,twedu/variant,𤌖
@@ -5685,6 +5744,7 @@ twedu/variant,<rev>,twedu/proper
 爭,twedu/variant,𠄙
 爭,twedu/variant,𠫩
 爭,twedu/variant,𣌦
+爭,twedu/variant,𪜃
 爵,twedu/variant,𡭌
 爵,twedu/variant,𠙘
 爵,twedu/variant,𡬠
@@ -5852,6 +5912,7 @@ twedu/variant,<rev>,twedu/proper
 王,twedu/variant,𠙻
 王,twedu/variant,壬
 王,twedu/variant,𥝍
+王,twedu/variant,𢏝
 王,twedu/variant,𡈼
 王,twedu/variant,𠰶
 玉,twedu/variant,王
@@ -5940,6 +6001,7 @@ twedu/variant,<rev>,twedu/proper
 瑰,twedu/variant,𤩫
 瑰,twedu/variant,𤪿
 瑰,twedu/variant,瓌
+瑩,twedu/variant,𤫎
 璃,twedu/variant,瓈
 璣,twedu/variant,㼄
 璣,twedu/variant,𤪫
@@ -5996,6 +6058,7 @@ twedu/variant,<rev>,twedu/proper
 甜,twedu/variant,𩚣
 生,twedu/variant,𤯓
 生,twedu/variant,𠤵
+生,twedu/variant,龶
 生,twedu/variant,𠥱
 產,twedu/variant,産
 產,twedu/variant,𨹞
@@ -6232,6 +6295,7 @@ twedu/variant,<rev>,twedu/proper
 皇,twedu/variant,𤽙
 皇,twedu/variant,𤽚
 皇,twedu/variant,𤽧
+皇,twedu/variant,䍿
 皎,twedu/variant,𡙎
 皎,twedu/variant,晈
 皎,twedu/variant,𣎣
@@ -6263,6 +6327,7 @@ twedu/variant,<rev>,twedu/proper
 皺,twedu/variant,𤿥
 皺,twedu/variant,𩊥
 皺,twedu/variant,𩋓
+皿,twedu/variant,𠀜
 盂,twedu/variant,𥁄
 盂,twedu/variant,𥁄
 盂,twedu/variant,䍂
@@ -6566,6 +6631,7 @@ twedu/variant,<rev>,twedu/proper
 神,twedu/variant,𥞁
 神,twedu/variant,柛
 神,twedu/variant,䰠
+神,twedu/variant,𫋵
 祝,twedu/variant,𥘱
 祝,twedu/variant,𩚶
 祝,twedu/variant,拀
@@ -6588,6 +6654,7 @@ twedu/variant,<rev>,twedu/proper
 祿,twedu/variant,𥜅
 福,twedu/variant,福
 福,twedu/variant,畗
+福,twedu/variant,稫
 福,twedu/variant,𤔜
 禍,twedu/variant,䄀
 禍,twedu/variant,𣨱
@@ -6755,6 +6822,7 @@ twedu/variant,<rev>,twedu/proper
 突,twedu/variant,穾
 窈,twedu/variant,𡢵
 窕,twedu/variant,宨
+窕,twedu/variant,𥧽
 窕,twedu/variant,𡣡
 窗,twedu/variant,𤗉
 窗,twedu/variant,牎
@@ -6825,6 +6893,7 @@ twedu/variant,<rev>,twedu/proper
 競,twedu/variant,𨐼
 競,twedu/variant,兢
 竹,twedu/variant,廾
+竹,twedu/variant,艸
 竺,twedu/variant,笁
 竺,twedu/variant,𥫰
 竿,twedu/variant,𣔼
@@ -7546,6 +7615,7 @@ twedu/variant,<rev>,twedu/proper
 聽,twedu/variant,𦕢
 聽,twedu/variant,聼
 聽,twedu/variant,听
+聽,twedu/variant,𪢧
 肆,twedu/variant,𨽸
 肆,twedu/variant,𢑨
 肆,twedu/variant,𦘨
@@ -7814,6 +7884,7 @@ twedu/variant,<rev>,twedu/proper
 舅,twedu/variant,𠢎
 舅,twedu/variant,𦥶
 舅,twedu/variant,𦦊
+舅,twedu/variant,𤽲
 舅,twedu/variant,旧
 與,twedu/variant,𢌱
 與,twedu/variant,𠔜
@@ -7931,6 +8002,7 @@ twedu/variant,<rev>,twedu/proper
 芻,twedu/variant,𦮊
 芻,twedu/variant,𦱻
 芻,twedu/variant,𦷝
+芻,twedu/variant,茤
 苧,twedu/variant,芧
 范,twedu/variant,𦴮
 范,twedu/variant,𣔶
@@ -8011,6 +8083,7 @@ twedu/variant,<rev>,twedu/proper
 莖,twedu/variant,茎
 莽,twedu/variant,莾
 莽,twedu/variant,𦷶
+莽,twedu/variant,𢳠
 莽,twedu/variant,𦯨
 莫,twedu/variant,𦱤
 莫,twedu/variant,䒬
@@ -8053,7 +8126,11 @@ twedu/variant,<rev>,twedu/proper
 華,twedu/variant,蕐
 華,twedu/variant,𧅅
 華,twedu/variant,花
+華,twedu/variant,𫈐
+華,twedu/variant,𦮴
+華,twedu/variant,𦶎
 華,twedu/variant,𡾀
+華,twedu/variant,蘤
 菱,twedu/variant,𧅊
 菱,twedu/variant,𧃮
 菴,twedu/variant,葊
@@ -8120,6 +8197,7 @@ twedu/variant,<rev>,twedu/proper
 蒙,twedu/variant,冡
 蒙,twedu/variant,𦿢
 蒙,twedu/variant,𣉭
+蒙,twedu/variant,䝉
 蒞,twedu/variant,涖
 蒞,twedu/variant,䇐
 蒞,twedu/variant,莅
@@ -8275,6 +8353,7 @@ twedu/variant,<rev>,twedu/proper
 虧,twedu/variant,虧
 虧,twedu/variant,亏
 虫,twedu/variant,𧈰
+虫,twedu/variant,䖝
 虱,twedu/variant,𧌡
 虱,twedu/variant,𠤋
 虹,twedu/variant,𧈬
@@ -8402,6 +8481,7 @@ twedu/variant,<rev>,twedu/proper
 蟯,twedu/variant,𧑣
 蟬,twedu/variant,蟺
 蟲,twedu/variant,虫
+蟲,twedu/variant,䖝
 蟻,twedu/variant,螘
 蟻,twedu/variant,𧕶
 蟻,twedu/variant,𡎕
@@ -8590,6 +8670,7 @@ twedu/variant,<rev>,twedu/proper
 褻,twedu/variant,暬
 褻,twedu/variant,褺
 褻,twedu/variant,絬
+褶,twedu/variant,𧚻
 襄,twedu/variant,㐮
 襄,twedu/variant,𡣿
 襄,twedu/variant,𧞜
@@ -8988,7 +9069,9 @@ twedu/variant,<rev>,twedu/proper
 貌,twedu/variant,𧳖
 貌,twedu/variant,𨓅
 貌,twedu/variant,䫉
+貌,twedu/variant,皀
 貌,twedu/variant,貇
+貌,twedu/variant,𧳓
 貌,twedu/variant,狠
 貌,twedu/variant,𨉍
 貓,twedu/variant,猫
@@ -9547,6 +9630,7 @@ twedu/variant,<rev>,twedu/proper
 達,twedu/variant,𨔬
 達,twedu/variant,𨖫
 達,twedu/variant,达
+達,twedu/variant,𫐳
 逼,twedu/variant,偪
 遐,twedu/variant,徦
 遇,twedu/variant,𠓱
@@ -9803,6 +9887,7 @@ twedu/variant,<rev>,twedu/proper
 鈞,twedu/variant,銁
 鈞,twedu/variant,銞
 鈍,twedu/variant,𨆛
+鈍,twedu/variant,𫒇
 鈍,twedu/variant,䤜
 鈐,twedu/variant,𨥩
 鉗,twedu/variant,鉆
@@ -9974,6 +10059,7 @@ twedu/variant,<rev>,twedu/proper
 閉,twedu/variant,𨳰
 閉,twedu/variant,𨳲
 閉,twedu/variant,𨵰
+閉,twedu/variant,𨳓
 閔,twedu/variant,㥸
 閏,twedu/variant,𥹿
 閏,twedu/variant,䦞
@@ -9987,6 +10073,7 @@ twedu/variant,<rev>,twedu/proper
 開,twedu/variant,开
 開,twedu/variant,𨶷
 閑,twedu/variant,䦥
+閑,twedu/variant,閖
 間,twedu/variant,閒
 間,twedu/variant,𨳢
 間,twedu/variant,𨳡
@@ -10020,6 +10107,7 @@ twedu/variant,<rev>,twedu/proper
 關,twedu/variant,𨳡
 關,twedu/variant,閞
 關,twedu/variant,关
+關,twedu/variant,𫔢
 關,twedu/variant,𨵈
 闡,twedu/variant,𨴁
 闡,twedu/variant,𨴝
@@ -10165,6 +10253,7 @@ twedu/variant,<rev>,twedu/proper
 隨,twedu/variant,遀
 險,twedu/variant,礆
 險,twedu/variant,嶮
+險,twedu/variant,𡽃
 隱,twedu/variant,乚
 隱,twedu/variant,隠
 隱,twedu/variant,𨼆
@@ -10246,6 +10335,7 @@ twedu/variant,<rev>,twedu/proper
 雨,twedu/variant,㲾
 雨,twedu/variant,𩁼
 雨,twedu/variant,兩
+雨,twedu/variant,𡷎
 雪,twedu/variant,䨮
 雲,twedu/variant,云
 雲,twedu/variant,𦤆
@@ -10280,6 +10370,7 @@ twedu/variant,<rev>,twedu/proper
 零,twedu/variant,𩆖
 零,twedu/variant,𤅫
 零,twedu/variant,𩅶
+零,twedu/variant,𥥋
 需,twedu/variant,𩂉
 需,twedu/variant,𦓔
 霄,twedu/variant,㲵
@@ -10509,6 +10600,7 @@ twedu/variant,<rev>,twedu/proper
 風,twedu/variant,檒
 風,twedu/variant,𠙈
 風,twedu/variant,飌
+風,twedu/variant,风
 颯,twedu/variant,䬃
 颯,twedu/variant,𩗁
 颱,twedu/variant,台
@@ -10797,8 +10889,15 @@ twedu/variant,<rev>,twedu/proper
 鬥,twedu/variant,𩰖
 鬥,twedu/variant,鬬
 鬥,twedu/variant,鬭
+鬥,twedu/variant,𨴜
+鬥,twedu/variant,𫔡
+鬥,twedu/variant,𨷖
 鬥,twedu/variant,𨶜
+鬥,twedu/variant,𩰚
 鬥,twedu/variant,斗
+鬥,twedu/variant,𫔯
+鬥,twedu/variant,𨷵
+鬥,twedu/variant,閗
 鬧,twedu/variant,𠆴
 鬧,twedu/variant,閙
 鬧,twedu/variant,𢂂
@@ -10913,6 +11012,7 @@ twedu/variant,<rev>,twedu/proper
 鱷,twedu/variant,𩷜
 鱸,twedu/variant,魲
 鳥,twedu/variant,𩾑
+鳥,twedu/variant,鸟
 鳥,twedu/variant,𪈼
 鳩,twedu/variant,䧱
 鳩,twedu/variant,𩾛
@@ -10932,6 +11032,7 @@ twedu/variant,<rev>,twedu/proper
 鳳,twedu/variant,鴌
 鳳,twedu/variant,𪆍
 鳳,twedu/variant,𪈵
+鳳,twedu/variant,风
 鴆,twedu/variant,䧵
 鴆,twedu/variant,䲴
 鴆,twedu/variant,𩾺
@@ -11065,7 +11166,9 @@ twedu/variant,<rev>,twedu/proper
 麼,twedu/variant,𡭯
 麼,twedu/variant,𡮡
 麼,twedu/variant,𤹳
+麼,twedu/variant,庅
 麼,twedu/variant,么
+麼,twedu/variant,𡻤
 麼,twedu/variant,𡭚
 麼,twedu/variant,𢇝
 麼,twedu/variant,麽
@@ -11170,10 +11273,14 @@ twedu/variant,<rev>,twedu/proper
 齒,twedu/variant,𦦂
 齒,twedu/variant,𣦋
 齒,twedu/variant,㒶
+齒,twedu/variant,齿
+齒,twedu/variant,𠚄
 齣,twedu/variant,出
 齡,twedu/variant,𪗲
+齡,twedu/variant,龄
 齜,twedu/variant,𪗶
 齜,twedu/variant,𪘿
+齜,twedu/variant,龇
 齦,twedu/variant,㸧
 齦,twedu/variant,𪙲
 齦,twedu/variant,𪘄
@@ -11197,6 +11304,8 @@ twedu/variant,<rev>,twedu/proper
 龍,twedu/variant,𥪑
 龍,twedu/variant,𥫈
 龍,twedu/variant,𦱸
+龍,twedu/variant,靇
+龍,twedu/variant,𢄫
 龜,twedu/variant,𠁴
 龜,twedu/variant,𤕣
 龜,twedu/variant,𪚧
@@ -11217,6 +11326,7 @@ twedu/variant,<rev>,twedu/proper
 亓,twedu/variant,亣
 亓,twedu/variant,卞
 亢,twedu/variant,頏
+亢,twedu/variant,𪜠
 亢,twedu/variant,𠕵
 亳,twedu/variant,𠅢
 仉,twedu/variant,𠆰
@@ -11432,6 +11542,7 @@ twedu/variant,<rev>,twedu/proper
 卼,twedu/variant,𠨜
 厂,twedu/variant,厈
 厎,twedu/variant,㕄
+厎,twedu/variant,𠨿
 厒,twedu/variant,𠩂
 厒,twedu/variant,𠩧
 厒,twedu/variant,𠪈
@@ -11601,6 +11712,7 @@ twedu/variant,<rev>,twedu/proper
 囟,twedu/variant,䪿
 囟,twedu/variant,𩔨
 囟,twedu/variant,顖
+囟,twedu/variant,龱
 囟,twedu/variant,𩔙
 囮,twedu/variant,𡈙
 囮,twedu/variant,𡈱
@@ -12046,6 +12158,7 @@ twedu/variant,<rev>,twedu/proper
 嶔,twedu/variant,𡼽
 嶬,twedu/variant,㠖
 嶵,twedu/variant,㠑
+嶮,twedu/variant,𡽃
 嶪,twedu/variant,嶫
 嶨,twedu/variant,礐
 嶨,twedu/variant,㙾
@@ -12228,6 +12341,7 @@ twedu/variant,<rev>,twedu/proper
 徠,twedu/variant,倈
 徠,twedu/variant,勑
 徠,twedu/variant,逨
+徠,twedu/variant,俫
 徛,twedu/variant,𢕗
 徯,twedu/variant,𠌜
 徯,twedu/variant,𢓽
@@ -12623,6 +12737,7 @@ twedu/variant,<rev>,twedu/proper
 敕,twedu/variant,勑
 敕,twedu/variant,𢽈
 敕,twedu/variant,𢽟
+敕,twedu/variant,敇
 敕,twedu/variant,㩽
 敔,twedu/variant,𢻊
 敔,twedu/variant,𢾵
@@ -14143,6 +14258,7 @@ twedu/variant,<rev>,twedu/proper
 瞷,twedu/variant,覵
 瞶,twedu/variant,𥌶
 瞴,twedu/variant,𥌇
+瞼,twedu/variant,𥇥
 矊,twedu/variant,𥌣
 矏,twedu/variant,𥋬
 矏,twedu/variant,𥌗
@@ -17061,6 +17177,8 @@ twedu/variant,<rev>,twedu/proper
 闞,twedu/variant,鬫
 闠,twedu/variant,𨷪
 闟,twedu/variant,𩰙
+闥,twedu/variant,闼
+闥,twedu/variant,𨵉
 闤,twedu/variant,𨷤
 阤,twedu/variant,陁
 阬,twedu/variant,坑
@@ -17533,6 +17651,7 @@ twedu/variant,<rev>,twedu/proper
 驖,twedu/variant,𩧀
 驖,twedu/variant,𩥏
 驞,twedu/variant,𩦿
+驤,twedu/variant,𩦪
 驦,twedu/variant,騻
 驩,twedu/variant,𩥤
 驨,twedu/variant,𩧎
@@ -17754,6 +17873,7 @@ twedu/variant,<rev>,twedu/proper
 鰣,twedu/variant,𩶬
 鰨,twedu/variant,鮙
 鰨,twedu/variant,𩻵
+鱈,twedu/variant,鳕
 鰿,twedu/variant,𧐐
 鰿,twedu/variant,𩼜
 鰿,twedu/variant,𩼱
@@ -17779,6 +17899,7 @@ twedu/variant,<rev>,twedu/proper
 鱮,twedu/variant,魣
 鱴,twedu/variant,𩽣
 鱳,twedu/variant,𩺮
+鳦,twedu/variant,𩾐
 鳦,twedu/variant,乙
 鳦,twedu/variant,𠃉
 鳪,twedu/variant,𨾇
@@ -18253,6 +18374,7 @@ twedu/variant,<rev>,twedu/proper
 齔,twedu/variant,𪗕
 齔,twedu/variant,𪗠
 齔,twedu/variant,𪗥
+齔,twedu/variant,龀
 齕,twedu/variant,𪗚
 齕,twedu/variant,𪗟
 齗,twedu/variant,𪗯
@@ -18683,11 +18805,13 @@ twedu/variant,<rev>,twedu/proper
 𠽵,twedu/variant,𡁄
 𠾉,twedu/variant,𠭵
 𠾉,twedu/variant,𠷎
+𠾉,twedu/variant,𠼡
 嘼,twedu/variant,𠾧
 𠿞,twedu/variant,𡅹
 𠿓,twedu/variant,𧬩
 𠿎,twedu/variant,𡁑
 㗾,twedu/variant,吙
+㗿,twedu/variant,𠽫
 噧,twedu/variant,䜕
 噧,twedu/variant,𡂖
 𠿠,twedu/variant,𡅺
@@ -18911,6 +19035,7 @@ twedu/variant,<rev>,twedu/proper
 𡞢,twedu/variant,娔
 媌,twedu/variant,㑤
 媌,twedu/variant,㚹
+媌,twedu/variant,𪝌
 㛼,twedu/variant,㛼
 㛴,twedu/variant,𡢋
 㛴,twedu/variant,𡡟
@@ -19660,6 +19785,7 @@ twedu/variant,<rev>,twedu/proper
 㩿,twedu/variant,㪂
 𢼆,twedu/variant,𢻵
 𢼆,twedu/variant,𢺷
+𢼆,twedu/variant,𢂤
 𢻹,twedu/variant,㩺
 𢻹,twedu/variant,𤿎
 㪁,twedu/variant,鈙
@@ -20453,6 +20579,7 @@ twedu/variant,<rev>,twedu/proper
 𤜷,twedu/variant,𤝃
 犻,twedu/variant,𤝂
 犻,twedu/variant,𤜲
+犻,twedu/variant,𢂤
 㹝,twedu/variant,𤝬
 㹜,twedu/variant,犾
 𤝛,twedu/variant,狏
@@ -20643,6 +20770,7 @@ twedu/variant,<rev>,twedu/proper
 𤯷,twedu/variant,𤰀
 𤰈,twedu/variant,𤰇
 𤰈,twedu/variant,𦯞
+𤰈,twedu/variant,备
 𤰈,twedu/variant,𠃰
 𤰈,twedu/variant,𤰅
 㽕,twedu/variant,㕀
@@ -21592,6 +21720,7 @@ twedu/variant,<rev>,twedu/proper
 𦒦,twedu/variant,𦒩
 𦒶,twedu/variant,𦒲
 𦒶,twedu/variant,𦒸
+𦒺,twedu/variant,𠺛
 𦒺,twedu/variant,𡄒
 𦒺,twedu/variant,𦓃
 𦒻,twedu/variant,𦒾
@@ -22343,6 +22472,9 @@ twedu/variant,<rev>,twedu/proper
 䙲,twedu/variant,𦦉
 䙲,twedu/variant,𦧂
 䙲,twedu/variant,𧟨
+䙲,twedu/variant,䙴
+䙲,twedu/variant,𠨧
+䙲,twedu/variant,𦦒
 覎,twedu/variant,𧠐
 𧠘,twedu/variant,𧠙
 䙹,twedu/variant,𧠻
@@ -22392,6 +22524,7 @@ twedu/variant,<rev>,twedu/proper
 䚕,twedu/variant,矖
 䚕,twedu/variant,𧢮
 䚕,twedu/variant,𥊨
+𧢯,twedu/variant,𧢰
 𧣁,twedu/variant,𧣍
 𧢾,twedu/variant,𧣐
 䚗,twedu/variant,𧢸
@@ -24406,6 +24539,7 @@ twedu/variant,<rev>,twedu/proper
 䶬,twedu/variant,𪚜
 䶬,twedu/variant,𪚟
 龓,twedu/variant,𪚞
+龖,twedu/variant,龘
 龗,twedu/variant,𪚙
 龗,twedu/variant,𩆇
 龗,twedu/variant,𩆈
@@ -24494,6 +24628,7 @@ twedu/variant,<rev>,twedu/proper
 𧎾,twedu/variant,𧐯
 𧎾,twedu/variant,𧌬
 䆗,twedu/variant,𥥎
+𧟨,twedu/variant,𧟤
 𧐯,twedu/variant,𤴂
 𧐯,twedu/variant,𧐋
 𧐯,twedu/variant,𧐣
