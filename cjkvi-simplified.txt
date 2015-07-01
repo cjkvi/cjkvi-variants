@@ -44,7 +44,7 @@ cjkvi/traditional,<name>,繁体字
 㒑,cjkvi/simplified,⿰亻汇
 㒒,cjkvi/simplified,⿰亻业
 㒓,cjkvi/simplified,𠉂
-㒘,cjkvi/simplified,㑠
+㒘,cjkvi/simplified,⿰亻竖
 㒜,cjkvi/simplified,𠇐
 㒟,cjkvi/simplified,⿰亻⿳亠马𧘇
 㒤,cjkvi/simplified,⿰亻聂
@@ -207,7 +207,7 @@ cjkvi/traditional,<name>,繁体字
 㩣,cjkvi/simplified,𫾉
 㩦,cjkvi/simplified,携
 㩩,cjkvi/simplified,⿰扌颍
-㩫,cjkvi/simplified,揗
+㩫,cjkvi/simplified,⿰扌质
 㩭,cjkvi/simplified,⿰扌学
 㩳,cjkvi/simplified,㧐
 㩵,cjkvi/simplified,擜
@@ -8626,7 +8626,6 @@ cjkvi/traditional,<name>,繁体字
 㑇,cjkvi/traditional,㑳
 㑈,cjkvi/traditional,倲
 㑔,cjkvi/traditional,㑯
-㑠,cjkvi/traditional,㒘
 㑩,cjkvi/traditional,儸
 㓆,cjkvi/traditional,𠗣
 㓥,cjkvi/traditional,劏
@@ -9401,7 +9400,6 @@ cjkvi/traditional,<name>,繁体字
 掸,cjkvi/traditional,撣
 掺,cjkvi/traditional,摻
 掼,cjkvi/traditional,摜
-揗,cjkvi/traditional,㩫
 揽,cjkvi/traditional,攬
 揿,cjkvi/traditional,撳
 搀,cjkvi/traditional,攙
