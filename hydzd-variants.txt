@@ -15355,7 +15355,7 @@ hydzd/simplified,<rev>,hydzd/traditional
 疴,hydzd/variant,痾
 病,hydzd/variant,𤖉
 病,hydzd/variant,𤵣
-疾,hydzd/variant,廿
+疾,hydzd/variant,𠥻
 疾,hydzd/variant,𤕬
 疾,hydzd/variant,𤕼
 疾,hydzd/variant,𤖏
