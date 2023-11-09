@@ -1,4 +1,4 @@
-# 異體字表（漢語大詞典）
+# 異體字表（漢語大字典）
 #
 hydzd/proper,<name>,正體字（漢語大字典）
 hydzd/traditional,<name>,繁體字（漢語大字典）
